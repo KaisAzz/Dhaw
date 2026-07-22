@@ -1,0 +1,39 @@
+name: Scraper STEG → outages.json
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # toutes les 30 min (UTC)
+  workflow_dispatch:          # bouton "Run workflow" manuel
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances (OCR + Python)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-fra tesseract-ocr-ara
+          pip install --quiet requests pillow pytesseract
+
+      - name: Scraper + géocodage
+        run: |
+          cd scraper
+          python steg_scraper.py
+          python geocode.py
+          cp outages.json ../outages.json
+
+      - name: Commit si changement
+        run: |
+          git config user.name "dhaw-bot"
+          git config user.email "actions@github.com"
+          git add outages.json scraper/outages.json scraper/seen.json scraper/geocache.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "maj coupures $(date -u '+%Y-%m-%d %H:%M')" && git push)
