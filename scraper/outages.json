@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T13:58:06+01:00",
+ "generated_at": "2026-07-23T16:10:36+01:00",
  "events": [
   {
    "id": "28559a825e370c85-0",
@@ -699,6 +699,48 @@
    "scraped_at": "2026-07-23T13:58:03+01:00",
    "lat": 36.49672,
    "lng": 8.7757,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "3c7aa2caa21ec594-0",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-70-des-restaurants-touches-le-secteur-reclame-des-compensations/401541/",
+   "title": "Coupures d’électricité : 70% des restaurants touchés, le secteur réclame des compensations",
+   "scraped_at": "2026-07-23T16:10:31+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "3c7aa2caa21ec594-1",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-70-des-restaurants-touches-le-secteur-reclame-des-compensations/401541/",
+   "title": "Coupures d’électricité : 70% des restaurants touchés, le secteur réclame des compensations",
+   "scraped_at": "2026-07-23T16:10:31+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "3c7aa2caa21ec594-2",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-70-des-restaurants-touches-le-secteur-reclame-des-compensations/401541/",
+   "title": "Coupures d’électricité : 70% des restaurants touchés, le secteur réclame des compensations",
+   "scraped_at": "2026-07-23T16:10:31+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
    "geo_precision": "zone"
   },
   {
