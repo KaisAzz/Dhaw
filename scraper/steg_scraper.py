@@ -40,7 +40,9 @@ KEYWORDS = re.compile(
     r"(steg|d[ée]lestage|coupure[sz]?\s+(?:de\s+)?(?:d.)?[ée]lectricit|"
     r"coupure[sz]?\s+(?:de\s+)?courant|قطع.{0,12}كهرباء)", re.I)
 
-UA = {"User-Agent": "DhawBot/0.1 (+https://dhaw.tn ; contact@dhaw.tn) veille coupures"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; DhawBot/0.1; +https://dhaw.tn; contact@dhaw.tn)",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "fr-FR,fr;q=0.9,ar;q=0.8"}
 TUNIS_TZ = timezone(timedelta(hours=1))
 
 # ---------------------------------------------------------------- utils ----
@@ -149,72 +151,122 @@ def parse_article(title: str, text: str, url: str, pub_date: datetime):
     } for i, (zone, gov) in enumerate(zones)]
 
 # ------------------------------------------------------------- réseau ------
-def fetch(url: str) -> str:
+def fetch(url: str, tries: int = 2) -> str:
     import requests
-    r = requests.get(url, headers=UA, timeout=20)
-    r.raise_for_status()
-    return r.text
+    last_exc = None
+    for attempt in range(tries):
+        try:
+            r = requests.get(url, headers=UA, timeout=25)
+            r.raise_for_status()
+            return r.text
+        except Exception as exc:
+            last_exc = exc
+    raise last_exc
+
+def _child_text(node, name):
+    """findtext insensible aux namespaces XML (utile pour Atom)."""
+    for c in node:
+        if c.tag.split("}")[-1] == name:
+            return (c.text or "").strip(), c
+    return "", None
 
 def parse_rss(xml_text: str):
-    """-> [(title, link, pub_date), ...]"""
+    """-> [(title, link, pub_date), ...]. Tolère RSS 2.0 ET Atom, avec ou
+    sans namespaces. Ne lève JAMAIS : renvoie [] si le flux est illisible
+    (page anti-bot, HTML d'erreur, etc.)."""
     items = []
-    root = ET.fromstring(xml_text)
-    for item in root.iter("item"):
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        pub = item.findtext("pubDate") or ""
-        try:
-            dt = datetime.strptime(pub[:25].strip(), "%a, %d %b %Y %H:%M:%S")
-        except ValueError:
+    try:
+        xml_text = (xml_text or "").strip()
+        if not xml_text.startswith("<"):
+            raise ValueError("réponse non-XML (probable page anti-bot)")
+        root = ET.fromstring(xml_text)
+        for node in root.iter():
+            tag = node.tag.split("}")[-1]
+            if tag not in ("item", "entry"):
+                continue
+            title, _ = _child_text(node, "title")
+            link, link_node = _child_text(node, "link")
+            if not link:
+                for c in node:
+                    if c.tag.split("}")[-1] == "link" and c.get("href"):
+                        link = c.get("href")
+                        break
+            pub, _ = _child_text(node, "pubDate")
+            if not pub:
+                pub, _ = _child_text(node, "published")
             dt = datetime.now()
-        items.append((title, link, dt))
+            for fmt in ("%a, %d %b %Y %H:%M:%S", "%Y-%m-%dT%H:%M:%S"):
+                try:
+                    dt = datetime.strptime(pub[:25].strip().replace("Z", ""), fmt)
+                    break
+                except ValueError:
+                    pass
+            if title and link:
+                items.append((title, link, dt))
+    except Exception as exc:
+        print(f"[warn] flux illisible: {exc}")
     return items
 
 def run():
-    seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else {}
-    existing = (json.loads(OUT_FILE.read_text())["events"]
-                if OUT_FILE.exists() else [])
+    try:
+        seen = json.loads(SEEN_FILE.read_text()) if SEEN_FILE.exists() else {}
+    except Exception as exc:
+        print(f"[warn] seen.json corrompu, réinitialisation: {exc}")
+        seen = {}
+    try:
+        existing = (json.loads(OUT_FILE.read_text())["events"]
+                    if OUT_FILE.exists() else [])
+    except Exception as exc:
+        print(f"[warn] outages.json corrompu, réinitialisation: {exc}")
+        existing = []
     events = {e["id"]: e for e in existing}
     new_count = 0
 
     for feed in FEEDS:
         try:
-            rss = fetch(feed)
+            entries = parse_rss(fetch(feed))
+            print(f"[feed] {feed} -> {len(entries)} entrées")
         except Exception as exc:
             print(f"[warn] flux inaccessible {feed}: {exc}")
             continue
-        for title, link, pub in parse_rss(rss):
-            if not KEYWORDS.search(title):
-                continue
-            aid = article_id(link)
-            if aid in seen:
-                continue
+        for title, link, pub in entries:
             try:
-                raw = fetch(link)
-                text = strip_html(raw)
+                if not KEYWORDS.search(title):
+                    continue
+                aid = article_id(link)
+                if aid in seen:
+                    continue
+                try:
+                    raw = fetch(link)
+                    text = strip_html(raw)
+                except Exception as exc:
+                    print(f"[warn] article inaccessible {link}: {exc}")
+                    continue
+                evs = parse_article(title, text, link, pub)
+                # Fallback OCR : article quasi vide mais captures FB présentes.
+                # Best-effort : toute erreur (tesseract absent, image cassée,
+                # réseau...) ne doit jamais interrompre le scraper.
+                try:
+                    from ocr_fb import ocr_fallback
+                    extra = ocr_fallback(raw, min_zones_found=5,
+                                         zones_found=len(evs))
+                    if extra:
+                        evs = parse_article(title, text + "\n" + extra, link, pub)
+                except Exception as exc:
+                    print(f"[warn] OCR ignoré pour {link}: {exc}")
+                for ev in evs:
+                    if ev["id"] not in events:
+                        events[ev["id"]] = ev
+                        new_count += 1
+                seen[aid] = datetime.now().isoformat()
+                print(f"[ok] {title}")
             except Exception as exc:
-                print(f"[warn] article inaccessible {link}: {exc}")
+                print(f"[warn] article ignoré ({link}): {exc}")
                 continue
-            evs = parse_article(title, text, link, pub)
-            # Fallback OCR : article quasi vide mais captures FB présentes
-            try:
-                from ocr_fb import ocr_fallback
-                extra = ocr_fallback(raw, min_zones_found=5,
-                                     zones_found=len(evs))
-                if extra:
-                    evs = parse_article(title, text + "\n" + extra, link, pub)
-            except ImportError:
-                pass  # pytesseract non installé : on continue sans OCR
-            for ev in evs:
-                if ev["id"] not in events:
-                    events[ev["id"]] = ev
-                    new_count += 1
-            seen[aid] = datetime.now().isoformat()
-            print(f"[ok] {title}")
 
     # purge : garder 14 jours glissants
     cutoff = (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d")
-    events = {k: v for k, v in events.items() if v["date"] >= cutoff}
+    events = {k: v for k, v in events.items() if v.get("date", "9999") >= cutoff}
 
     OUT_FILE.write_text(json.dumps(
         {"generated_at": datetime.now(TUNIS_TZ).isoformat(timespec="seconds"),
@@ -247,4 +299,22 @@ def run_test():
     print("-> outages.sample.json écrit")
 
 if __name__ == "__main__":
-    run_test() if "--test" in sys.argv else run()
+    if "--test" in sys.argv:
+        run_test()
+    else:
+        # Scraper best-effort : une panne réseau/parsing ne doit jamais faire
+        # échouer le job GitHub Actions (sinon outages.json n'est jamais mis
+        # à jour). On logue l'erreur complète mais on sort toujours en 0,
+        # et on s'assure qu'un outages.json valide existe (même vide).
+        try:
+            run()
+        except Exception:
+            import traceback
+            traceback.print_exc()
+            if not OUT_FILE.exists():
+                OUT_FILE.write_text(json.dumps(
+                    {"generated_at": datetime.now(TUNIS_TZ).isoformat(timespec="seconds"),
+                     "events": []}, ensure_ascii=False, indent=1))
+            print("[warn] run() a échoué — voir traceback ci-dessus ; "
+                  "sortie en succès pour ne pas casser le workflow.")
+        sys.exit(0)

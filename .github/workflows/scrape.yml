@@ -24,16 +24,33 @@ jobs:
           sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-fra tesseract-ocr-ara
           pip install --quiet requests pillow pytesseract
 
-      - name: Scraper + géocodage
+      # Ces deux scripts ne renvoient jamais un code d'erreur (voir leur
+      # garde-fou en fin de fichier) : toute panne réseau/parsing est logguée
+      # mais n'interrompt pas le workflow.
+      - name: Scraper (best-effort)
         run: |
           cd scraper
           python steg_scraper.py
+          echo "--- outages.json (scraper) ---"
+          wc -l outages.json 2>/dev/null || echo "absent"
+
+      - name: Géocodage (best-effort)
+        run: |
+          cd scraper
           python geocode.py
-          cp outages.json ../outages.json
+
+      - name: Copier vers la racine
+        run: cp scraper/outages.json outages.json
 
       - name: Commit si changement
         run: |
           git config user.name "dhaw-bot"
           git config user.email "actions@github.com"
           git add outages.json scraper/outages.json scraper/seen.json scraper/geocache.json 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "maj coupures $(date -u '+%Y-%m-%d %H:%M')" && git push)
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau."
+          else
+            git commit -m "maj coupures $(date -u '+%Y-%m-%d %H:%M')"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

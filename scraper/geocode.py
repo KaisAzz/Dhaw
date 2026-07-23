@@ -142,4 +142,18 @@ def run_test():
     print("\nTous les tests passent ✔")
 
 if __name__ == "__main__":
-    run_test() if "--test" in sys.argv else enrich()
+    if "--test" in sys.argv:
+        run_test()
+    else:
+        # Best-effort comme le scraper : Nominatim peut être lent/rate-limité,
+        # ça ne doit jamais faire échouer le workflow. outages.json produit
+        # par steg_scraper.py (avec ses coordonnées jitterées de secours)
+        # reste valide même si l'enrichissement échoue.
+        try:
+            enrich()
+        except Exception:
+            import traceback
+            traceback.print_exc()
+            print("[warn] enrich() a échoué — outages.json reste tel quel ; "
+                  "sortie en succès pour ne pas casser le workflow.")
+    sys.exit(0)
