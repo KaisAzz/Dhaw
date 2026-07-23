@@ -823,5 +823,30 @@
   "lat": 36.83244,
   "lng": 10.11321,
   "precision": "zone"
+ },
+ "Ben Arous|Ben Arous": {
+  "lat": 36.75169,
+  "lng": 10.2245,
+  "precision": "zone"
+ },
+ "Medina|Tunis": {
+  "lat": 36.79869,
+  "lng": 10.17174,
+  "precision": "zone"
+ },
+ "L Ariana|Ariana": {
+  "lat": 36.85641,
+  "lng": 10.18945,
+  "precision": "zone"
+ },
+ "La Manouba|Manouba": {
+  "lat": 36.81133,
+  "lng": 10.0947,
+  "precision": "zone"
+ },
+ "Manouba|Manouba": {
+  "lat": 36.81133,
+  "lng": 10.0947,
+  "precision": "zone"
  }
 }
