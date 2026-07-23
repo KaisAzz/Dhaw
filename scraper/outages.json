@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T10:08:44+01:00",
+ "generated_at": "2026-07-23T12:23:39+01:00",
  "events": [
   {
    "id": "28559a825e370c85-0",
@@ -81,6 +81,48 @@
    "source": "https://www.lapresse.tn/2026/07/23/a-telecharger-le-guide-officiel-de-la-steg-sur-les-batteries-de-stockage-pour-installations-solaires/",
    "title": "À télécharger : le guide officiel de la STEG sur les batteries de stockage pour installations solaires",
    "scraped_at": "2026-07-23T10:08:32+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0b233a8520eb55f0-0",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.webdo.tn/fr/actualite/national/stockage-de-lelectricite-la-solution-de-la-steg-coute-20-mille-dinars-qui-peut-se-loffrir/401522/",
+   "title": "Stockage de l’électricité : La solution de la STEG coûte 20 mille dinars… qui peut se l’offrir ?",
+   "scraped_at": "2026-07-23T12:23:34+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0b233a8520eb55f0-1",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/stockage-de-lelectricite-la-solution-de-la-steg-coute-20-mille-dinars-qui-peut-se-loffrir/401522/",
+   "title": "Stockage de l’électricité : La solution de la STEG coûte 20 mille dinars… qui peut se l’offrir ?",
+   "scraped_at": "2026-07-23T12:23:34+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "12fe0318fd9be641-0",
+   "type": "annonce",
+   "date": "2026-07-23",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.lapresse.tn/2026/07/23/coupures-delectricite-louverture-denquetes-visant-des-cadres-et-des-agents-de-la-steg-confirmee/",
+   "title": "Coupures d’électricité : l’ouverture d’enquêtes visant des cadres et des agents de la STEG confirmée",
+   "scraped_at": "2026-07-23T12:23:37+01:00",
    "lat": 36.40127,
    "lng": 10.55728,
    "geo_precision": "zone"
