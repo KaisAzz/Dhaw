@@ -848,5 +848,130 @@
   "lat": 36.81133,
   "lng": 10.0947,
   "precision": "zone"
+ },
+ "Ghezala|Bizerte": {
+  "lat": 37.08355,
+  "lng": 9.53464,
+  "precision": "zone"
+ },
+ "Ghardimaou|Jendouba": {
+  "lat": 36.45059,
+  "lng": 8.44253,
+  "precision": "zone"
+ },
+ "Bou Salem|Jendouba": {
+  "lat": 36.60741,
+  "lng": 8.96965,
+  "precision": "zone"
+ },
+ "Bou Arada|Siliana": {
+  "lat": 36.35106,
+  "lng": 9.62415,
+  "precision": "zone"
+ },
+ "Gaafour|Siliana": {
+  "lat": 36.25318,
+  "lng": 9.33017,
+  "precision": "zone"
+ },
+ "Bourouis|Siliana": {
+  "lat": 36.18939,
+  "lng": 9.13283,
+  "precision": "zone"
+ },
+ "Teboursouk|Béja": {
+  "lat": 36.46151,
+  "lng": 9.24262,
+  "precision": "zone"
+ },
+ "Nebeur|El Kef": {
+  "lat": 36.30509,
+  "lng": 8.77132,
+  "precision": "zone"
+ },
+ "Medjez El Bab|Béja": {
+  "lat": 36.64715,
+  "lng": 9.61652,
+  "precision": "zone"
+ },
+ "Tajerouine|El Kef": {
+  "lat": 35.89137,
+  "lng": 8.55305,
+  "precision": "zone"
+ },
+ "Ouled Achour|Kairouan": {
+  "lat": 35.32572,
+  "lng": 10.16479,
+  "precision": "zone"
+ },
+ "Ksar Lemta|Monastir": {
+  "lat": 35.64467,
+  "lng": 10.79327,
+  "precision": "gouvernorat"
+ },
+ "Melloulech|Mahdia": {
+  "lat": 35.14241,
+  "lng": 11.00746,
+  "precision": "zone"
+ },
+ "El Hamma|Gabès": {
+  "lat": 33.88944,
+  "lng": 9.79971,
+  "precision": "zone"
+ },
+ "Mareth|Gabès": {
+  "lat": 33.61716,
+  "lng": 10.28823,
+  "precision": "zone"
+ },
+ "Matmata|Gabès": {
+  "lat": 33.50868,
+  "lng": 9.97861,
+  "precision": "zone"
+ },
+ "Bouchamma|Gabès": {
+  "lat": 33.90472,
+  "lng": 10.06241,
+  "precision": "zone"
+ },
+ "Cite El Izdihar|Gabès": {
+  "lat": 33.71458,
+  "lng": 9.93733,
+  "precision": "gouvernorat"
+ },
+ "Teboulbou|Gabès": {
+  "lat": 33.81254,
+  "lng": 10.13545,
+  "precision": "zone"
+ },
+ "Houmt Souk|Médenine": {
+  "lat": 33.87599,
+  "lng": 10.85715,
+  "precision": "zone"
+ },
+ "Souk Lahad|Kébili": {
+  "lat": 33.77831,
+  "lng": 8.85259,
+  "precision": "zone"
+ },
+ "Bir Lahmar|Tataouine": {
+  "lat": 33.14457,
+  "lng": 10.43937,
+  "precision": "zone"
+ },
+ "Smar|Tataouine": {
+  "lat": 33.0314,
+  "lng": 10.90954,
+  "precision": "zone"
+ },
+ "Beni Khedache|Médenine": {
+  "lat": 33.24066,
+  "lng": 10.09675,
+  "precision": "zone"
+ },
+ "El Guettar|Gafsa": {
+  "lat": 34.27166,
+  "lng": 8.96588,
+  "precision": "zone"
  }
 }
