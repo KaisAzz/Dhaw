@@ -808,5 +808,20 @@
   "lat": 34.42244,
   "lng": 8.78439,
   "precision": "zone"
+ },
+ "Jendouba|Jendouba": {
+  "lat": 36.49672,
+  "lng": 8.7757,
+  "precision": "zone"
+ },
+ "El Mida|Nabeul": {
+  "lat": 36.72117,
+  "lng": 10.858,
+  "precision": "zone"
+ },
+ "Cite Ettadhamen|Ariana": {
+  "lat": 36.83244,
+  "lng": 10.11321,
+  "precision": "zone"
  }
 }
