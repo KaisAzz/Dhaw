@@ -1,0 +1,812 @@
+{
+ "Carthage|Tunis": {
+  "lat": 36.85481,
+  "lng": 10.33099,
+  "precision": "zone"
+ },
+ "Sfax|Sfax": {
+  "lat": 34.73944,
+  "lng": 10.7604,
+  "precision": "zone"
+ },
+ "La Marsa|Tunis": {
+  "lat": 36.87909,
+  "lng": 10.32768,
+  "precision": "zone"
+ },
+ "Mahdia|Mahdia": {
+  "lat": 35.50364,
+  "lng": 11.06824,
+  "precision": "zone"
+ },
+ "Kelibia|Nabeul": {
+  "lat": 36.84566,
+  "lng": 11.09357,
+  "precision": "zone"
+ },
+ "Fouchana|Ben Arous": {
+  "lat": 36.69872,
+  "lng": 10.16936,
+  "precision": "zone"
+ },
+ "Borj Cedria|Ben Arous": {
+  "lat": 36.68123,
+  "lng": 10.37847,
+  "precision": "zone"
+ },
+ "Ettadhamen|Ariana": {
+  "lat": 36.83384,
+  "lng": 10.10615,
+  "precision": "zone"
+ },
+ "La Soukra|Ariana": {
+  "lat": 36.87498,
+  "lng": 10.24543,
+  "precision": "zone"
+ },
+ "Soukra|Ariana": {
+  "lat": 36.87635,
+  "lng": 10.2582,
+  "precision": "zone"
+ },
+ "El Mourouj|Ben Arous": {
+  "lat": 36.71983,
+  "lng": 10.21924,
+  "precision": "zone"
+ },
+ "Mourouj|Ben Arous": {
+  "lat": 36.71983,
+  "lng": 10.21924,
+  "precision": "zone"
+ },
+ "Megrine|Ben Arous": {
+  "lat": 36.77034,
+  "lng": 10.23159,
+  "precision": "zone"
+ },
+ "Rades|Ben Arous": {
+  "lat": 36.76789,
+  "lng": 10.27246,
+  "precision": "zone"
+ },
+ "Ezzahra|Ben Arous": {
+  "lat": 36.74045,
+  "lng": 10.30295,
+  "precision": "zone"
+ },
+ "Hammam Lif|Ben Arous": {
+  "lat": 36.73138,
+  "lng": 10.3364,
+  "precision": "zone"
+ },
+ "Birine|Ben Arous": {
+  "lat": 36.74028,
+  "lng": 10.12059,
+  "precision": "zone"
+ },
+ "Ariana|Ariana": {
+  "lat": 36.85874,
+  "lng": 10.18823,
+  "precision": "zone"
+ },
+ "Douar Hicher|Manouba": {
+  "lat": 36.82374,
+  "lng": 10.09606,
+  "precision": "zone"
+ },
+ "Beni Khalled|Nabeul": {
+  "lat": 36.62507,
+  "lng": 10.63528,
+  "precision": "zone"
+ },
+ "El Haouaria|Nabeul": {
+  "lat": 37.04981,
+  "lng": 11.01165,
+  "precision": "zone"
+ },
+ "Menzel Temime|Nabeul": {
+  "lat": 36.78071,
+  "lng": 10.99391,
+  "precision": "zone"
+ },
+ "Hammamet|Nabeul": {
+  "lat": 36.40127,
+  "lng": 10.55728,
+  "precision": "zone"
+ },
+ "Menzel Bouzelfa|Nabeul": {
+  "lat": 36.70321,
+  "lng": 10.60123,
+  "precision": "zone"
+ },
+ "Bou Argoub|Nabeul": {
+  "lat": 36.53422,
+  "lng": 10.54987,
+  "precision": "zone"
+ },
+ "Nabeul|Nabeul": {
+  "lat": 36.45129,
+  "lng": 10.73559,
+  "precision": "zone"
+ },
+ "Zaghouan|Zaghouan": {
+  "lat": 36.39948,
+  "lng": 10.14463,
+  "precision": "zone"
+ },
+ "El Fahs|Zaghouan": {
+  "lat": 36.26976,
+  "lng": 9.84234,
+  "precision": "zone"
+ },
+ "Zriba|Zaghouan": {
+  "lat": 36.35121,
+  "lng": 10.20792,
+  "precision": "zone"
+ },
+ "Jradou|Zaghouan": {
+  "lat": 36.27612,
+  "lng": 10.32372,
+  "precision": "zone"
+ },
+ "Jebel Oust|Zaghouan": {
+  "lat": 36.57114,
+  "lng": 10.03252,
+  "precision": "zone"
+ },
+ "Bir Mcherga|Zaghouan": {
+  "lat": 36.51808,
+  "lng": 9.95442,
+  "precision": "zone"
+ },
+ "Bizerte|Bizerte": {
+  "lat": 37.27209,
+  "lng": 9.87086,
+  "precision": "zone"
+ },
+ "Sejnane|Bizerte": {
+  "lat": 37.13689,
+  "lng": 9.244,
+  "precision": "zone"
+ },
+ "Joumine|Bizerte": {
+  "lat": 36.87831,
+  "lng": 9.44741,
+  "precision": "zone"
+ },
+ "Mateur|Bizerte": {
+  "lat": 37.0386,
+  "lng": 9.6677,
+  "precision": "zone"
+ },
+ "Ras Jebel|Bizerte": {
+  "lat": 37.21462,
+  "lng": 10.12456,
+  "precision": "zone"
+ },
+ "Menzel Abderrahmane|Bizerte": {
+  "lat": 37.23613,
+  "lng": 9.86311,
+  "precision": "zone"
+ },
+ "El Alia|Bizerte": {
+  "lat": 37.1689,
+  "lng": 10.03387,
+  "precision": "zone"
+ },
+ "Ghar El Melh|Bizerte": {
+  "lat": 37.14543,
+  "lng": 10.09387,
+  "precision": "zone"
+ },
+ "Menzel Jemil|Bizerte": {
+  "lat": 37.23932,
+  "lng": 9.91297,
+  "precision": "zone"
+ },
+ "Tinja|Bizerte": {
+  "lat": 37.12898,
+  "lng": 9.66319,
+  "precision": "zone"
+ },
+ "Makthar|Siliana": {
+  "lat": 35.8559,
+  "lng": 9.20575,
+  "precision": "zone"
+ },
+ "Jerissa|El Kef": {
+  "lat": 35.84501,
+  "lng": 8.63102,
+  "precision": "zone"
+ },
+ "Dahmani|El Kef": {
+  "lat": 35.94244,
+  "lng": 8.82843,
+  "precision": "zone"
+ },
+ "Goubellat|Béja": {
+  "lat": 36.54001,
+  "lng": 9.66322,
+  "precision": "zone"
+ },
+ "Kalaat Khasba|El Kef": {
+  "lat": 35.7275,
+  "lng": 8.51892,
+  "precision": "zone"
+ },
+ "Nefza|Béja": {
+  "lat": 36.97487,
+  "lng": 9.07484,
+  "precision": "zone"
+ },
+ "Bouhajla|Kairouan": {
+  "lat": 35.3983,
+  "lng": 10.0508,
+  "precision": "zone"
+ },
+ "Nasrallah|Kairouan": {
+  "lat": 35.33767,
+  "lng": 9.81267,
+  "precision": "zone"
+ },
+ "Sbiba|Kasserine": {
+  "lat": 35.54056,
+  "lng": 9.07327,
+  "precision": "zone"
+ },
+ "Enfidha|Sousse": {
+  "lat": 36.13412,
+  "lng": 10.37799,
+  "precision": "zone"
+ },
+ "Hergla|Sousse": {
+  "lat": 36.03172,
+  "lng": 10.50648,
+  "precision": "zone"
+ },
+ "Bouficha|Sousse": {
+  "lat": 36.27453,
+  "lng": 10.426,
+  "precision": "zone"
+ },
+ "Hammam Sousse|Sousse": {
+  "lat": 35.87498,
+  "lng": 10.59352,
+  "precision": "zone"
+ },
+ "Sousse|Sousse": {
+  "lat": 35.82883,
+  "lng": 10.64053,
+  "precision": "zone"
+ },
+ "Akouda|Sousse": {
+  "lat": 35.90524,
+  "lng": 10.56207,
+  "precision": "zone"
+ },
+ "Kalaa Sghira|Sousse": {
+  "lat": 35.82415,
+  "lng": 10.56108,
+  "precision": "zone"
+ },
+ "Jemmal|Monastir": {
+  "lat": 35.62393,
+  "lng": 10.75924,
+  "precision": "zone"
+ },
+ "Ksar Hellal|Monastir": {
+  "lat": 35.64439,
+  "lng": 10.88914,
+  "precision": "zone"
+ },
+ "Sayada|Monastir": {
+  "lat": 35.66827,
+  "lng": 10.89132,
+  "precision": "zone"
+ },
+ "Kairouan|Kairouan": {
+  "lat": 35.67101,
+  "lng": 10.10062,
+  "precision": "zone"
+ },
+ "Bembla|Monastir": {
+  "lat": 35.69193,
+  "lng": 10.79211,
+  "precision": "zone"
+ },
+ "M Saken|Sousse": {
+  "lat": 35.67368,
+  "lng": 10.53849,
+  "precision": "zone"
+ },
+ "Bouhjar|Monastir": {
+  "lat": 35.66912,
+  "lng": 10.86379,
+  "precision": "zone"
+ },
+ "Zaouiet Sousse|Sousse": {
+  "lat": 35.78578,
+  "lng": 10.61734,
+  "precision": "zone"
+ },
+ "Sahline|Monastir": {
+  "lat": 35.74137,
+  "lng": 10.72195,
+  "precision": "zone"
+ },
+ "Menzel Kamel|Monastir": {
+  "lat": 35.63626,
+  "lng": 10.66169,
+  "precision": "zone"
+ },
+ "Moknine|Monastir": {
+  "lat": 35.62826,
+  "lng": 10.90013,
+  "precision": "zone"
+ },
+ "Bekalta|Monastir": {
+  "lat": 35.61729,
+  "lng": 10.98913,
+  "precision": "zone"
+ },
+ "Chebba|Mahdia": {
+  "lat": 35.23655,
+  "lng": 11.11297,
+  "precision": "zone"
+ },
+ "Chorbane|Mahdia": {
+  "lat": 35.22675,
+  "lng": 10.43553,
+  "precision": "zone"
+ },
+ "Rejiche|Mahdia": {
+  "lat": 35.46552,
+  "lng": 11.0417,
+  "precision": "zone"
+ },
+ "Essouassi|Mahdia": {
+  "lat": 35.34081,
+  "lng": 10.50308,
+  "precision": "zone"
+ },
+ "Kerker|Mahdia": {
+  "lat": 35.47579,
+  "lng": 10.65091,
+  "precision": "zone"
+ },
+ "Sidi Bou Ali|Sousse": {
+  "lat": 35.97023,
+  "lng": 10.42525,
+  "precision": "zone"
+ },
+ "Kalaa Kebira|Sousse": {
+  "lat": 35.86846,
+  "lng": 10.4533,
+  "precision": "zone"
+ },
+ "Ouled Chamekh|Mahdia": {
+  "lat": 35.47961,
+  "lng": 10.29739,
+  "precision": "zone"
+ },
+ "El Jem|Mahdia": {
+  "lat": 35.29664,
+  "lng": 10.71284,
+  "precision": "zone"
+ },
+ "El Omrane|Tunis": {
+  "lat": 36.82126,
+  "lng": 10.15318,
+  "precision": "zone"
+ },
+ "Monastir|Monastir": {
+  "lat": 35.77076,
+  "lng": 10.82805,
+  "precision": "zone"
+ },
+ "Chott Meriem|Sousse": {
+  "lat": 35.81785,
+  "lng": 10.42823,
+  "precision": "gouvernorat"
+ },
+ "Mahres|Sfax": {
+  "lat": 34.52184,
+  "lng": 10.49844,
+  "precision": "zone"
+ },
+ "Skhira|Sfax": {
+  "lat": 34.34707,
+  "lng": 9.9753,
+  "precision": "zone"
+ },
+ "Bir Ali Ben Khalifa|Sfax": {
+  "lat": 34.74067,
+  "lng": 10.09589,
+  "precision": "zone"
+ },
+ "Agareb|Sfax": {
+  "lat": 34.74211,
+  "lng": 10.5274,
+  "precision": "zone"
+ },
+ "El Amra|Sfax": {
+  "lat": 34.98372,
+  "lng": 10.89551,
+  "precision": "zone"
+ },
+ "Thyna|Sfax": {
+  "lat": 34.68802,
+  "lng": 10.70751,
+  "precision": "zone"
+ },
+ "Sakiet Ezzit|Sfax": {
+  "lat": 34.80238,
+  "lng": 10.76131,
+  "precision": "zone"
+ },
+ "Sakiet Eddaier|Sfax": {
+  "lat": 34.78962,
+  "lng": 10.78004,
+  "precision": "zone"
+ },
+ "Ghraba|Sfax": {
+  "lat": 34.94426,
+  "lng": 10.74509,
+  "precision": "zone"
+ },
+ "El Menzah|Tunis": {
+  "lat": 36.83561,
+  "lng": 10.15836,
+  "precision": "zone"
+ },
+ "El Manar|Tunis": {
+  "lat": 36.84398,
+  "lng": 10.15394,
+  "precision": "zone"
+ },
+ "Ain Zaghouan|Tunis": {
+  "lat": 36.85483,
+  "lng": 10.28476,
+  "precision": "zone"
+ },
+ "Jardins De Carthage|Tunis": {
+  "lat": 36.86011,
+  "lng": 10.28989,
+  "precision": "zone"
+ },
+ "Le Kram|Tunis": {
+  "lat": 36.83483,
+  "lng": 10.31815,
+  "precision": "zone"
+ },
+ "Kram|Tunis": {
+  "lat": 36.848,
+  "lng": 10.29436,
+  "precision": "zone"
+ },
+ "La Goulette|Tunis": {
+  "lat": 36.81593,
+  "lng": 10.30424,
+  "precision": "zone"
+ },
+ "Tebourba|Manouba": {
+  "lat": 36.82204,
+  "lng": 9.85902,
+  "precision": "zone"
+ },
+ "Jedaida|Manouba": {
+  "lat": 36.84145,
+  "lng": 9.9349,
+  "precision": "zone"
+ },
+ "Sidi Thabet|Ariana": {
+  "lat": 36.90851,
+  "lng": 10.04255,
+  "precision": "zone"
+ },
+ "Touiref|El Kef": {
+  "lat": 36.33989,
+  "lng": 8.57983,
+  "precision": "zone"
+ },
+ "Kef|El Kef": {
+  "lat": 36.15364,
+  "lng": 8.60829,
+  "precision": "zone"
+ },
+ "Korba|Nabeul": {
+  "lat": 36.57289,
+  "lng": 10.85762,
+  "precision": "zone"
+ },
+ "Dar Chaabane|Nabeul": {
+  "lat": 36.46662,
+  "lng": 10.74785,
+  "precision": "zone"
+ },
+ "Beni Khiar|Nabeul": {
+  "lat": 36.46936,
+  "lng": 10.78098,
+  "precision": "zone"
+ },
+ "Grombalia|Nabeul": {
+  "lat": 36.59842,
+  "lng": 10.49904,
+  "precision": "zone"
+ },
+ "Soliman|Nabeul": {
+  "lat": 36.69443,
+  "lng": 10.48659,
+  "precision": "zone"
+ },
+ "Takelsa|Nabeul": {
+  "lat": 36.79321,
+  "lng": 10.6751,
+  "precision": "zone"
+ },
+ "Nadhour|Zaghouan": {
+  "lat": 36.11173,
+  "lng": 9.98976,
+  "precision": "zone"
+ },
+ "Saouaf|Zaghouan": {
+  "lat": 36.21583,
+  "lng": 10.15273,
+  "precision": "zone"
+ },
+ "Utique|Bizerte": {
+  "lat": 37.03457,
+  "lng": 9.9599,
+  "precision": "zone"
+ },
+ "Menzel Bourguiba|Bizerte": {
+  "lat": 37.15499,
+  "lng": 9.79259,
+  "precision": "zone"
+ },
+ "Zarzouna|Bizerte": {
+  "lat": 37.2556,
+  "lng": 9.87528,
+  "precision": "zone"
+ },
+ "Makther|Siliana": {
+  "lat": 35.86178,
+  "lng": 9.18948,
+  "precision": "zone"
+ },
+ "Djerissa|El Kef": {
+  "lat": 35.81365,
+  "lng": 8.65391,
+  "precision": "zone"
+ },
+ "El Krib|Siliana": {
+  "lat": 36.32709,
+  "lng": 9.13528,
+  "precision": "zone"
+ },
+ "Rouhia|Siliana": {
+  "lat": 35.65143,
+  "lng": 9.05634,
+  "precision": "zone"
+ },
+ "Ain Jalloula|Kairouan": {
+  "lat": 35.63738,
+  "lng": 9.88708,
+  "precision": "gouvernorat"
+ },
+ "El Ala|Kairouan": {
+  "lat": 35.61865,
+  "lng": 9.5624,
+  "precision": "zone"
+ },
+ "Ksar Helal|Monastir": {
+  "lat": 35.64491,
+  "lng": 10.90102,
+  "precision": "zone"
+ },
+ "Msaken|Sousse": {
+  "lat": 35.72526,
+  "lng": 10.58328,
+  "precision": "zone"
+ },
+ "Souassi|Mahdia": {
+  "lat": 35.34447,
+  "lng": 10.54903,
+  "precision": "zone"
+ },
+ "Aouled Chamekh|Mahdia": {
+  "lat": 35.39064,
+  "lng": 10.74351,
+  "precision": "gouvernorat"
+ },
+ "Bir Ali|Sfax": {
+  "lat": 34.74067,
+  "lng": 10.09589,
+  "precision": "zone"
+ },
+ "Gabes|Gabès": {
+  "lat": 33.88781,
+  "lng": 10.10044,
+  "precision": "zone"
+ },
+ "Bouchemma|Gabès": {
+  "lat": 33.90763,
+  "lng": 10.02616,
+  "precision": "zone"
+ },
+ "Ghannouch|Gabès": {
+  "lat": 33.93982,
+  "lng": 10.06503,
+  "precision": "zone"
+ },
+ "Metouia|Gabès": {
+  "lat": 33.95891,
+  "lng": 10.00143,
+  "precision": "zone"
+ },
+ "Menzel Habib|Gabès": {
+  "lat": 34.15374,
+  "lng": 9.58827,
+  "precision": "zone"
+ },
+ "Djerba|Médenine": {
+  "lat": 33.7736,
+  "lng": 10.88619,
+  "precision": "zone"
+ },
+ "Midoun|Médenine": {
+  "lat": 33.82456,
+  "lng": 11.00692,
+  "precision": "zone"
+ },
+ "Ajim|Médenine": {
+  "lat": 33.72485,
+  "lng": 10.7485,
+  "precision": "zone"
+ },
+ "Kebili|Kébili": {
+  "lat": 33.70611,
+  "lng": 8.96984,
+  "precision": "zone"
+ },
+ "Cite Route De Gabes|Kébili": {
+  "lat": 33.33386,
+  "lng": 9.34944,
+  "precision": "gouvernorat"
+ },
+ "Jemna|Kébili": {
+  "lat": 33.56957,
+  "lng": 9.016,
+  "precision": "zone"
+ },
+ "Douz|Kébili": {
+  "lat": 33.45711,
+  "lng": 9.02498,
+  "precision": "zone"
+ },
+ "Faouar|Kébili": {
+  "lat": 33.15177,
+  "lng": 8.44104,
+  "precision": "zone"
+ },
+ "Tataouine|Tataouine": {
+  "lat": 32.93152,
+  "lng": 10.4504,
+  "precision": "zone"
+ },
+ "Nouvelle Tataouine|Tataouine": {
+  "lat": 32.91109,
+  "lng": 10.00961,
+  "precision": "zone"
+ },
+ "Cite Mahrajene|Tataouine": {
+  "lat": 32.95672,
+  "lng": 10.46793,
+  "precision": "zone"
+ },
+ "Remada|Tataouine": {
+  "lat": 32.31465,
+  "lng": 10.3987,
+  "precision": "zone"
+ },
+ "Ghomrassen|Tataouine": {
+  "lat": 33.0599,
+  "lng": 10.33906,
+  "precision": "zone"
+ },
+ "Ez Zahra|Ben Arous": {
+  "lat": 36.74045,
+  "lng": 10.30295,
+  "precision": "zone"
+ },
+ "Zarzis|Médenine": {
+  "lat": 33.50368,
+  "lng": 11.10972,
+  "precision": "zone"
+ },
+ "Ben Guerdane|Médenine": {
+  "lat": 33.14032,
+  "lng": 11.21701,
+  "precision": "zone"
+ },
+ "Route De Ras Jedir|Médenine": {
+  "lat": 33.36108,
+  "lng": 10.46912,
+  "precision": "zone"
+ },
+ "Medenine|Médenine": {
+  "lat": 33.3434,
+  "lng": 10.49107,
+  "precision": "zone"
+ },
+ "Sidi Makhlouf|Médenine": {
+  "lat": 33.50634,
+  "lng": 10.47971,
+  "precision": "zone"
+ },
+ "Souk Jedid|Sidi Bouzid": {
+  "lat": 34.86709,
+  "lng": 9.54903,
+  "precision": "zone"
+ },
+ "Makarem|Gafsa": {
+  "lat": 35.23638,
+  "lng": 9.56777,
+  "precision": "zone"
+ },
+ "Foussana|Kasserine": {
+  "lat": 35.34969,
+  "lng": 8.62557,
+  "precision": "zone"
+ },
+ "Hassi El Ferid|Kasserine": {
+  "lat": 34.96276,
+  "lng": 8.91021,
+  "precision": "zone"
+ },
+ "Ouled Haffouz|Sidi Bouzid": {
+  "lat": 35.09971,
+  "lng": 9.86073,
+  "precision": "zone"
+ },
+ "Haffouz|Kairouan": {
+  "lat": 35.6165,
+  "lng": 9.73591,
+  "precision": "zone"
+ },
+ "Sbeitla|Kasserine": {
+  "lat": 35.24034,
+  "lng": 9.12034,
+  "precision": "zone"
+ },
+ "Thala|Kasserine": {
+  "lat": 35.57672,
+  "lng": 8.66071,
+  "precision": "zone"
+ },
+ "El Ayoun|Kasserine": {
+  "lat": 35.54027,
+  "lng": 8.88366,
+  "precision": "zone"
+ },
+ "Sidi Aich|Gafsa": {
+  "lat": 34.73286,
+  "lng": 8.78276,
+  "precision": "zone"
+ },
+ "Nefta|Tozeur": {
+  "lat": 33.8205,
+  "lng": 7.87245,
+  "precision": "zone"
+ },
+ "Majel Bel Abbes|Kasserine": {
+  "lat": 34.75043,
+  "lng": 8.52313,
+  "precision": "zone"
+ },
+ "Gafsa|Gafsa": {
+  "lat": 34.42244,
+  "lng": 8.78439,
+  "precision": "zone"
+ }
+}
