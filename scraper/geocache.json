@@ -1018,5 +1018,10 @@
   "lat": 36.17845,
   "lng": 8.70735,
   "precision": "zone"
+ },
+ "Bou Mhel|Ben Arous": {
+  "lat": 36.71444,
+  "lng": 10.31128,
+  "precision": "zone"
  }
 }
