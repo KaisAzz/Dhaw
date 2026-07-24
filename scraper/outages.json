@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T19:57:26+01:00",
+ "generated_at": "2026-07-24T21:20:22+01:00",
  "events": [
   {
    "id": "04b8acfd016e7b1e-0",
@@ -4001,6 +4001,76 @@
    "source": "https://www.lapresse.tn/2026/07/24/grand-tunis-des-coupures-delectricite-prevues-dans-ces-zones-ce-soir/",
    "title": "Grand Tunis: des coupures d’électricité prévues dans ces zones ce soir",
    "scraped_at": "2026-07-24T19:57:24+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d6fee28ebcddcdbf-0",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Nabeul",
+   "source": "https://www.lapresse.tn/2026/07/24/reportage-coupures-delectricite-a-nabeul-la-grogne-des-glaciers-et-des-bars-a-jus/",
+   "title": "Reportage – coupures d’électricité à nabeul : La grogne des glaciers et des bars à jus !",
+   "scraped_at": "2026-07-24T21:20:16+01:00",
+   "lat": 36.45129,
+   "lng": 10.73559,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d6fee28ebcddcdbf-1",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.lapresse.tn/2026/07/24/reportage-coupures-delectricite-a-nabeul-la-grogne-des-glaciers-et-des-bars-a-jus/",
+   "title": "Reportage – coupures d’électricité à nabeul : La grogne des glaciers et des bars à jus !",
+   "scraped_at": "2026-07-24T21:20:16+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0bae8fb2e2c9dc85-0",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Menzel Temime",
+   "source": "https://www.lapresse.tn/2026/07/24/poissons-avaries-pertes-financieres-les-professionnels-de-menzel-temime-interpellent-la-steg/",
+   "title": "Poissons avariés, pertes financières : les professionnels de Menzel Temime interpellent la STEG",
+   "scraped_at": "2026-07-24T21:20:18+01:00",
+   "lat": 36.78071,
+   "lng": 10.99391,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0bae8fb2e2c9dc85-1",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Nabeul",
+   "source": "https://www.lapresse.tn/2026/07/24/poissons-avaries-pertes-financieres-les-professionnels-de-menzel-temime-interpellent-la-steg/",
+   "title": "Poissons avariés, pertes financières : les professionnels de Menzel Temime interpellent la STEG",
+   "scraped_at": "2026-07-24T21:20:18+01:00",
+   "lat": 36.45129,
+   "lng": 10.73559,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0bae8fb2e2c9dc85-2",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.lapresse.tn/2026/07/24/poissons-avaries-pertes-financieres-les-professionnels-de-menzel-temime-interpellent-la-steg/",
+   "title": "Poissons avariés, pertes financières : les professionnels de Menzel Temime interpellent la STEG",
+   "scraped_at": "2026-07-24T21:20:18+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
    "geo_precision": "zone"
