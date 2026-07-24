@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-07-24T16:14:08+01:00",
+ "generated_at": "2026-07-24T18:04:25+01:00",
  "events": [
+  {
+   "id": "04b8acfd016e7b1e-0",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "horaire non précisé",
+   "gov": "Kasserine",
+   "zone": "Kasserine",
+   "source": "https://www.lapresse.tn/2026/07/24/coupure-generale-delectricite-prevue-demain-le-dementi-de-la-steg/",
+   "title": "Coupure générale d’électricité prévue demain: le démenti de la STEG",
+   "scraped_at": "2026-07-24T18:04:24+01:00",
+   "lat": 35.16876,
+   "lng": 8.83657,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "04b8acfd016e7b1e-1",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Ben Arous",
+   "source": "https://www.lapresse.tn/2026/07/24/coupure-generale-delectricite-prevue-demain-le-dementi-de-la-steg/",
+   "title": "Coupure générale d’électricité prévue demain: le démenti de la STEG",
+   "scraped_at": "2026-07-24T18:04:24+01:00",
+   "lat": 36.75169,
+   "lng": 10.2245,
+   "geo_precision": "zone"
+  },
   {
    "id": "7c348e94a3f251f8-0",
    "type": "delestage",

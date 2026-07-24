@@ -1023,5 +1023,10 @@
   "lat": 36.71444,
   "lng": 10.31128,
   "precision": "zone"
+ },
+ "Kasserine|Kasserine": {
+  "lat": 35.16876,
+  "lng": 8.83657,
+  "precision": "zone"
  }
 }
