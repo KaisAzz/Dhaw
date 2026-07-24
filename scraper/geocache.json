@@ -1028,5 +1028,35 @@
   "lat": 35.16876,
   "lng": 8.83657,
   "precision": "zone"
+ },
+ "Le Bardo|Tunis": {
+  "lat": 36.814,
+  "lng": 10.1363,
+  "precision": "zone"
+ },
+ "Bardo|Tunis": {
+  "lat": 36.81236,
+  "lng": 10.14065,
+  "precision": "zone"
+ },
+ "Menzel Mehiri|Kairouan": {
+  "lat": 35.42692,
+  "lng": 9.85426,
+  "precision": "zone"
+ },
+ "Quartier Universitaire|Sousse": {
+  "lat": 35.74305,
+  "lng": 10.4944,
+  "precision": "gouvernorat"
+ },
+ "Menzel Chaker|Sfax": {
+  "lat": 35.02834,
+  "lng": 10.38375,
+  "precision": "zone"
+ },
+ "Degache|Tozeur": {
+  "lat": 33.98411,
+  "lng": 8.21546,
+  "precision": "zone"
  }
 }
