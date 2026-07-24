@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-07-24T08:05:31+01:00",
+ "generated_at": "2026-07-24T10:43:28+01:00",
  "events": [
+  {
+   "id": "7c348e94a3f251f8-0",
+   "type": "delestage",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestages-en-tunisie-la-fin-des-coupures-tournantes-se-profile/401567/",
+   "title": "Délestages en Tunisie : La fin des coupures tournantes se profile",
+   "scraped_at": "2026-07-24T10:43:20+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "3d2e27111e0286a7-0",
+   "type": "annonce",
+   "date": "2026-07-24",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-les-entrepreneurs-preparent-une-riposte-judiciaire-contre-la-steg/401562/",
+   "title": "Coupures d’électricité : Les entrepreneurs préparent une riposte judiciaire contre la STEG",
+   "scraped_at": "2026-07-24T10:43:20+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "28559a825e370c85-0",
    "type": "annonce",
