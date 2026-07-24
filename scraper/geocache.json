@@ -973,5 +973,50 @@
   "lat": 34.27166,
   "lng": 8.96588,
   "precision": "zone"
+ },
+ "Cite Ennasr|Ariana": {
+  "lat": 36.85996,
+  "lng": 10.16368,
+  "precision": "zone"
+ },
+ "Ennasr|Ariana": {
+  "lat": 36.84219,
+  "lng": 10.11316,
+  "precision": "zone"
+ },
+ "Borj Touil|Ariana": {
+  "lat": 36.92322,
+  "lng": 10.13991,
+  "precision": "zone"
+ },
+ "Dar Allouche|Nabeul": {
+  "lat": 36.97165,
+  "lng": 11.04878,
+  "precision": "zone"
+ },
+ "Metline|Bizerte": {
+  "lat": 37.24209,
+  "lng": 10.06795,
+  "precision": "zone"
+ },
+ "El Jamila|Médenine": {
+  "lat": 32.86295,
+  "lng": 11.49578,
+  "precision": "zone"
+ },
+ "Feriana|Kasserine": {
+  "lat": 34.94665,
+  "lng": 8.56631,
+  "precision": "zone"
+ },
+ "Regueb|Sidi Bouzid": {
+  "lat": 34.8542,
+  "lng": 9.80156,
+  "precision": "zone"
+ },
+ "Le Kef|El Kef": {
+  "lat": 36.17845,
+  "lng": 8.70735,
+  "precision": "zone"
  }
 }
