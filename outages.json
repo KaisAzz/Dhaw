@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T11:11:05+01:00",
+ "generated_at": "2026-07-25T12:42:59+01:00",
  "events": [
   {
    "id": "04b8acfd016e7b1e-0",
@@ -27,6 +27,20 @@
    "scraped_at": "2026-07-24T18:04:24+01:00",
    "lat": 36.75169,
    "lng": 10.2245,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "5fd7ca0b50f49dcb-0",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "horaire non précisé",
+   "gov": "Kébili",
+   "zone": "Kebili",
+   "source": "https://www.lapresse.tn/2026/07/25/coupures-delectricite-les-demarches-a-suivre-pour-obtenir-une-indemnisation-en-cas-de-dommages/",
+   "title": "Coupures d’électricité : les démarches à suivre pour obtenir une indemnisation en cas de dommages",
+   "scraped_at": "2026-07-25T12:42:55+01:00",
+   "lat": 33.70611,
+   "lng": 8.96984,
    "geo_precision": "zone"
   },
   {
