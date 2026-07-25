@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T14:16:59+01:00",
+ "generated_at": "2026-07-25T15:46:43+01:00",
  "events": [
   {
    "id": "04b8acfd016e7b1e-0",
@@ -41,6 +41,34 @@
    "scraped_at": "2026-07-25T12:42:55+01:00",
    "lat": 33.70611,
    "lng": 8.96984,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "bbcfe886b80c6c12-0",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.lapresse.tn/2026/07/25/steg-35-milliards-de-dinars-dimpayes-un-deficit-de-600-mw-et-des-pertes-de-19/",
+   "title": "STEG : 3,5 milliards de dinars d’impayés, un déficit de 600 MW et des pertes de 19 %",
+   "scraped_at": "2026-07-25T15:46:38+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "4f41f8071e66652f-0",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.lapresse.tn/2026/07/25/coupures-delectricite-plus-de-30-avocats-mobilises-pour-defendre-les-entreprises-face-a-la-steg/",
+   "title": "Coupures d’électricité : plus de 30 avocats mobilisés pour défendre les entreprises face à la STEG",
+   "scraped_at": "2026-07-25T15:46:39+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
    "geo_precision": "zone"
   },
   {
