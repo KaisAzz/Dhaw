@@ -1058,5 +1058,10 @@
   "lat": 33.98411,
   "lng": 8.21546,
   "precision": "zone"
+ },
+ "Yasmine Hammamet|Nabeul": {
+  "lat": 36.38808,
+  "lng": 10.55172,
+  "precision": "zone"
  }
 }

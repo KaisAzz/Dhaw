@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T19:28:56+01:00",
+ "generated_at": "2026-07-25T20:45:53+01:00",
  "events": [
   {
    "id": "04b8acfd016e7b1e-0",
@@ -69,6 +69,90 @@
    "scraped_at": "2026-07-25T15:46:39+01:00",
    "lat": 36.40127,
    "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-0",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "Tunis",
+   "zone": "Bardo",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.81236,
+   "lng": 10.14065,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-1",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "Tunis",
+   "zone": "El Menzah",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.83561,
+   "lng": 10.15836,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-2",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-3",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "Nabeul",
+   "zone": "Yasmine Hammamet",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.38808,
+   "lng": 10.55172,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-4",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "El Kef",
+   "zone": "Le Kef",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.17845,
+   "lng": 8.70735,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "640d6d80bf27e234-5",
+   "type": "annonce",
+   "date": "2026-07-25",
+   "window": "10:00 – 15:00",
+   "gov": "El Kef",
+   "zone": "Kef",
+   "source": "https://www.lapresse.tn/2026/07/25/reportage-coupure-delectricite-et-commerce-tout-bloque/",
+   "title": "Reportage – coupure d’électricité et commerce : Tout bloque !",
+   "scraped_at": "2026-07-25T20:45:51+01:00",
+   "lat": 36.15364,
+   "lng": 8.60829,
    "geo_precision": "zone"
   },
   {
