@@ -1063,5 +1063,20 @@
   "lat": 36.38808,
   "lng": 10.55172,
   "precision": "zone"
+ },
+ "Sidi Alouane|Mahdia": {
+  "lat": 35.37502,
+  "lng": 10.93784,
+  "precision": "zone"
+ },
+ "Hebira|Mahdia": {
+  "lat": 35.166,
+  "lng": 10.23219,
+  "precision": "zone"
+ },
+ "Oueslatia|Kairouan": {
+  "lat": 35.84766,
+  "lng": 9.59327,
+  "precision": "zone"
  }
 }
