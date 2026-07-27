@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T21:03:49+01:00",
+ "generated_at": "2026-07-27T22:37:37+01:00",
  "events": [
   {
    "id": "3d8f42753d381716-0",
@@ -419,6 +419,62 @@
    "scraped_at": "2026-07-27T19:02:18+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "2487ca9be846a993-0",
+   "type": "delestage",
+   "date": "2026-07-27",
+   "window": "14:00 – 17:00",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.lapresse.tn/2026/07/27/consequences-des-delestages-en-tunisie-la-duree-de-vie-des-appareils-menagers-et-electroniques-menacee/",
+   "title": "Conséquences des délestages en Tunisie : La durée de vie des appareils ménagers et électroniques menacée",
+   "scraped_at": "2026-07-27T22:37:35+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "2487ca9be846a993-1",
+   "type": "delestage",
+   "date": "2026-07-27",
+   "window": "14:00 – 17:00",
+   "gov": "Sousse",
+   "zone": "Sousse",
+   "source": "https://www.lapresse.tn/2026/07/27/consequences-des-delestages-en-tunisie-la-duree-de-vie-des-appareils-menagers-et-electroniques-menacee/",
+   "title": "Conséquences des délestages en Tunisie : La durée de vie des appareils ménagers et électroniques menacée",
+   "scraped_at": "2026-07-27T22:37:35+01:00",
+   "lat": 35.82883,
+   "lng": 10.64053,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "2487ca9be846a993-2",
+   "type": "delestage",
+   "date": "2026-07-27",
+   "window": "14:00 – 17:00",
+   "gov": "Monastir",
+   "zone": "Monastir",
+   "source": "https://www.lapresse.tn/2026/07/27/consequences-des-delestages-en-tunisie-la-duree-de-vie-des-appareils-menagers-et-electroniques-menacee/",
+   "title": "Conséquences des délestages en Tunisie : La durée de vie des appareils ménagers et électroniques menacée",
+   "scraped_at": "2026-07-27T22:37:35+01:00",
+   "lat": 35.77076,
+   "lng": 10.82805,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "2487ca9be846a993-3",
+   "type": "delestage",
+   "date": "2026-07-27",
+   "window": "14:00 – 17:00",
+   "gov": "Gafsa",
+   "zone": "Gafsa",
+   "source": "https://www.lapresse.tn/2026/07/27/consequences-des-delestages-en-tunisie-la-duree-de-vie-des-appareils-menagers-et-electroniques-menacee/",
+   "title": "Conséquences des délestages en Tunisie : La durée de vie des appareils ménagers et électroniques menacée",
+   "scraped_at": "2026-07-27T22:37:35+01:00",
+   "lat": 34.42244,
+   "lng": 8.78439,
    "geo_precision": "zone"
   },
   {
