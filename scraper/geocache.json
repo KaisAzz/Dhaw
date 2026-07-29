@@ -1083,5 +1083,10 @@
   "lat": 36.75716,
   "lng": 10.01493,
   "precision": "zone"
+ },
+ "Sidi Bou Said|Tunis": {
+  "lat": 36.87109,
+  "lng": 10.34905,
+  "precision": "zone"
  }
 }
