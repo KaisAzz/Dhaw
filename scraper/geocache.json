@@ -1088,5 +1088,15 @@
   "lat": 36.87109,
   "lng": 10.34905,
   "precision": "zone"
+ },
+ "Kerkennah|Sfax": {
+  "lat": 34.64345,
+  "lng": 11.03758,
+  "precision": "zone"
+ },
+ "Beja|Béja": {
+  "lat": 36.72368,
+  "lng": 9.18538,
+  "precision": "zone"
  }
 }
