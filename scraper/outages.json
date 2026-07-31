@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-07-31T09:44:23+01:00",
+ "generated_at": "2026-07-31T12:27:21+01:00",
  "events": [
+  {
+   "id": "04262ee3e0ce8de6-0",
+   "type": "delestage",
+   "date": "2026-07-31",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "La Marsa",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestages-le-mercure-repart-a-la-hausse-linquietude-monte-chez-les-tunisiens/401966/",
+   "title": "Délestages : Le mercure repart à la hausse, l’inquiétude monte chez les Tunisiens",
+   "scraped_at": "2026-07-31T12:27:15+01:00",
+   "lat": 36.87909,
+   "lng": 10.32768,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "04262ee3e0ce8de6-1",
+   "type": "delestage",
+   "date": "2026-07-31",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestages-le-mercure-repart-a-la-hausse-linquietude-monte-chez-les-tunisiens/401966/",
+   "title": "Délestages : Le mercure repart à la hausse, l’inquiétude monte chez les Tunisiens",
+   "scraped_at": "2026-07-31T12:27:15+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "04262ee3e0ce8de6-2",
+   "type": "delestage",
+   "date": "2026-07-31",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestages-le-mercure-repart-a-la-hausse-linquietude-monte-chez-les-tunisiens/401966/",
+   "title": "Délestages : Le mercure repart à la hausse, l’inquiétude monte chez les Tunisiens",
+   "scraped_at": "2026-07-31T12:27:15+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "9a9648396ae93d7f-0",
    "type": "annonce",
