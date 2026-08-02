@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-08-02T08:30:16+01:00",
+ "generated_at": "2026-08-02T10:36:14+01:00",
  "events": [
+  {
+   "id": "11e06cc7653f758d-0",
+   "type": "annonce",
+   "date": "2026-08-02",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
+   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
+   "scraped_at": "2026-08-02T10:36:10+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "11e06cc7653f758d-1",
+   "type": "annonce",
+   "date": "2026-08-02",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "Carthage",
+   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
+   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
+   "scraped_at": "2026-08-02T10:36:10+01:00",
+   "lat": 36.85481,
+   "lng": 10.33099,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "11e06cc7653f758d-2",
+   "type": "annonce",
+   "date": "2026-08-02",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Rades",
+   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
+   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
+   "scraped_at": "2026-08-02T10:36:10+01:00",
+   "lat": 36.76789,
+   "lng": 10.27246,
+   "geo_precision": "zone"
+  },
   {
    "id": "04262ee3e0ce8de6-0",
    "type": "delestage",
