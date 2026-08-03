@@ -1103,5 +1103,10 @@
   "lat": 36.71895,
   "lng": 10.36427,
   "precision": "zone"
+ },
+ "Sidi Bouzid|Sidi Bouzid": {
+  "lat": 35.03824,
+  "lng": 9.48653,
+  "precision": "zone"
  }
 }
