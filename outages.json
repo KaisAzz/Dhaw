@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T16:24:59+01:00",
+ "generated_at": "2026-08-03T18:24:31+01:00",
  "events": [
   {
    "id": "d75cef1256593d12-0",
@@ -557,6 +557,62 @@
    "source": "https://www.lapresse.tn/2026/08/03/grand-tunis-voici-les-regions-concernees-par-les-coupures-delectricite-ce-lundi/",
    "title": "Grand Tunis : voici les régions concernées par les coupures d’électricité ce lundi",
    "scraped_at": "2026-08-03T13:19:26+01:00",
+   "lat": 36.45129,
+   "lng": 10.73559,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "cb39691027c18db3-0",
+   "type": "annonce",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.lapresse.tn/2026/08/03/y-aura-t-il-un-retour-des-coupures-delectricite-durant-le-reste-de-lete-en-tunisie/",
+   "title": "Y aura-t-il un retour des coupures d’électricité durant le reste de l’été en Tunisie ?",
+   "scraped_at": "2026-08-03T18:24:25+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "cb39691027c18db3-1",
+   "type": "annonce",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Jendouba",
+   "zone": "Tabarka",
+   "source": "https://www.lapresse.tn/2026/08/03/y-aura-t-il-un-retour-des-coupures-delectricite-durant-le-reste-de-lete-en-tunisie/",
+   "title": "Y aura-t-il un retour des coupures d’électricité durant le reste de l’été en Tunisie ?",
+   "scraped_at": "2026-08-03T18:24:25+01:00",
+   "lat": 36.95456,
+   "lng": 8.75738,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "cb39691027c18db3-2",
+   "type": "annonce",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.lapresse.tn/2026/08/03/y-aura-t-il-un-retour-des-coupures-delectricite-durant-le-reste-de-lete-en-tunisie/",
+   "title": "Y aura-t-il un retour des coupures d’électricité durant le reste de l’été en Tunisie ?",
+   "scraped_at": "2026-08-03T18:24:25+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "cb39691027c18db3-3",
+   "type": "annonce",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Nabeul",
+   "source": "https://www.lapresse.tn/2026/08/03/y-aura-t-il-un-retour-des-coupures-delectricite-durant-le-reste-de-lete-en-tunisie/",
+   "title": "Y aura-t-il un retour des coupures d’électricité durant le reste de l’été en Tunisie ?",
+   "scraped_at": "2026-08-03T18:24:25+01:00",
    "lat": 36.45129,
    "lng": 10.73559,
    "geo_precision": "zone"

@@ -1108,5 +1108,10 @@
   "lat": 35.03824,
   "lng": 9.48653,
   "precision": "zone"
+ },
+ "Tabarka|Jendouba": {
+  "lat": 36.95456,
+  "lng": 8.75738,
+  "precision": "zone"
  }
 }
