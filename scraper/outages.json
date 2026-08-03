@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-08-03T06:01:29+01:00",
+ "generated_at": "2026-08-03T09:47:15+01:00",
  "events": [
+  {
+   "id": "d75cef1256593d12-0",
+   "type": "delestage",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Rades",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestage-une-plateforme-energetique-basee-a-washington-annonce-la-fin-des-coupures-programmees-en-tunisie/402076/",
+   "title": "Délestage : Une plateforme énergétique basée à Washington annonce la fin des coupures programmées en Tunisie",
+   "scraped_at": "2026-08-03T09:47:04+01:00",
+   "lat": 36.76789,
+   "lng": 10.27246,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d75cef1256593d12-1",
+   "type": "delestage",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestage-une-plateforme-energetique-basee-a-washington-annonce-la-fin-des-coupures-programmees-en-tunisie/402076/",
+   "title": "Délestage : Une plateforme énergétique basée à Washington annonce la fin des coupures programmées en Tunisie",
+   "scraped_at": "2026-08-03T09:47:04+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "7e72c6a6c4c3f519-0",
+   "type": "delestage",
+   "date": "2026-08-03",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Hammam Chott",
+   "source": "https://www.lapresse.tn/2026/08/03/la-tunisie-annonce-la-fin-des-delestages-electriques-pour-le-reste-de-lete/",
+   "title": "La Tunisie annonce la fin des délestages électriques pour le reste de l’été",
+   "scraped_at": "2026-08-03T09:47:06+01:00",
+   "lat": 36.71895,
+   "lng": 10.36427,
+   "geo_precision": "zone"
+  },
   {
    "id": "11e06cc7653f758d-0",
    "type": "annonce",

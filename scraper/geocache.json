@@ -1098,5 +1098,10 @@
   "lat": 36.72368,
   "lng": 9.18538,
   "precision": "zone"
+ },
+ "Hammam Chott|Ben Arous": {
+  "lat": 36.71895,
+  "lng": 10.36427,
+  "precision": "zone"
  }
 }
