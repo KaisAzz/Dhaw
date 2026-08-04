@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T12:03:14+01:00",
+ "generated_at": "2026-08-04T14:15:03+01:00",
  "events": [
   {
    "id": "bdee916a2b013138-0",
@@ -1749,6 +1749,20 @@
    "scraped_at": "2026-08-04T12:03:09+01:00",
    "lat": 36.92322,
    "lng": 10.13991,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "f580e1ef97a2afb2-0",
+   "type": "annonce",
+   "date": "2026-08-04",
+   "window": "11:30 – 17:00",
+   "gov": "Kébili",
+   "zone": "Kebili",
+   "source": "https://www.lapresse.tn/2026/08/04/coupures-delectricite-voici-toutes-les-regions-concernees-aujourdhui/",
+   "title": "Coupures d’électricité : voici toutes les régions concernées aujourd’hui",
+   "scraped_at": "2026-08-04T14:15:00+01:00",
+   "lat": 33.70611,
+   "lng": 8.96984,
    "geo_precision": "zone"
   },
   {
