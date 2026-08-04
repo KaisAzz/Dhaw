@@ -1113,5 +1113,30 @@
   "lat": 36.95456,
   "lng": 8.75738,
   "precision": "zone"
+ },
+ "Sfax Ville|Sfax": {
+  "lat": 34.73617,
+  "lng": 10.76624,
+  "precision": "zone"
+ },
+ "Jebeniana|Sfax": {
+  "lat": 35.03513,
+  "lng": 10.90905,
+  "precision": "zone"
+ },
+ "Bou Hajla|Kairouan": {
+  "lat": 35.38307,
+  "lng": 10.04219,
+  "precision": "zone"
+ },
+ "Ezzouhour|Tunis": {
+  "lat": 36.7944,
+  "lng": 10.13559,
+  "precision": "zone"
+ },
+ "Matrech|Gabès": {
+  "lat": 33.85563,
+  "lng": 9.94775,
+  "precision": "gouvernorat"
  }
 }
