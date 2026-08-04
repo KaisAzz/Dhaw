@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T20:26:44+01:00",
+ "generated_at": "2026-08-04T21:52:01+01:00",
  "events": [
   {
    "id": "bdee916a2b013138-0",
@@ -1509,6 +1509,48 @@
    "source": "https://www.webdo.tn/fr/actualite/national/les-delestages-frappent-la-filiere-avicole-jusqua-50-des-volailles-perdues-des-perturbations-dapprovisionnement-redoutees/402151/",
    "title": "Délestages : Jusqu’à 50 % des volailles perdues, des perturbations d’approvisionnement redoutées",
    "scraped_at": "2026-08-04T18:44:12+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "9115ad8134ee048a-0",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Sousse",
+   "zone": "Sousse",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestage-alors-que-la-crise-se-poursuit-la-steg-remercie-lalgerie-pour-son-soutien/402160/",
+   "title": "Délestage : Alors que la crise se poursuit, la STEG remercie l’Algérie pour son soutien",
+   "scraped_at": "2026-08-04T21:51:57+01:00",
+   "lat": 35.82883,
+   "lng": 10.64053,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "9115ad8134ee048a-1",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Rades",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestage-alors-que-la-crise-se-poursuit-la-steg-remercie-lalgerie-pour-son-soutien/402160/",
+   "title": "Délestage : Alors que la crise se poursuit, la STEG remercie l’Algérie pour son soutien",
+   "scraped_at": "2026-08-04T21:51:57+01:00",
+   "lat": 36.76789,
+   "lng": 10.27246,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "9115ad8134ee048a-2",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/delestage-alors-que-la-crise-se-poursuit-la-steg-remercie-lalgerie-pour-son-soutien/402160/",
+   "title": "Délestage : Alors que la crise se poursuit, la STEG remercie l’Algérie pour son soutien",
+   "scraped_at": "2026-08-04T21:51:57+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
    "geo_precision": "zone"
