@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T21:52:01+01:00",
+ "generated_at": "2026-08-04T23:08:30+01:00",
  "events": [
   {
    "id": "bdee916a2b013138-0",
@@ -1847,6 +1847,34 @@
    "scraped_at": "2026-08-04T14:15:00+01:00",
    "lat": 33.70611,
    "lng": 8.96984,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "ec02d212ea7a70f0-0",
+   "type": "annonce",
+   "date": "2026-08-04",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "Bardo",
+   "source": "https://www.lapresse.tn/2026/08/04/cooperation-tuniso-algerienne-la-steg-salue-lappui-strategique-de-la-sonelgaz/",
+   "title": "Coopération tuniso-algérienne : La STEG salue l’appui stratégique de la Sonelgaz",
+   "scraped_at": "2026-08-04T23:08:27+01:00",
+   "lat": 36.81236,
+   "lng": 10.14065,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "ec02d212ea7a70f0-1",
+   "type": "annonce",
+   "date": "2026-08-04",
+   "window": "horaire non précisé",
+   "gov": "Sidi Bouzid",
+   "zone": "Sidi Bouzid",
+   "source": "https://www.lapresse.tn/2026/08/04/cooperation-tuniso-algerienne-la-steg-salue-lappui-strategique-de-la-sonelgaz/",
+   "title": "Coopération tuniso-algérienne : La STEG salue l’appui stratégique de la Sonelgaz",
+   "scraped_at": "2026-08-04T23:08:27+01:00",
+   "lat": 35.03824,
+   "lng": 9.48653,
    "geo_precision": "zone"
   },
   {
