@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T16:54:00+01:00",
+ "generated_at": "2026-08-04T18:44:14+01:00",
  "events": [
   {
    "id": "bdee916a2b013138-0",
@@ -1467,6 +1467,48 @@
    "source": "https://www.webdo.tn/fr/actualite/national/tunisie-forte-chaleur-aujourdhui-le-spectre-des-delestages-electriques-refait-surface/402129/",
    "title": "Tunisie : Forte chaleur aujourd’hui, le spectre des délestages électriques refait surface",
    "scraped_at": "2026-08-04T12:03:08+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d909585ab5cf5542-0",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.webdo.tn/fr/actualite/national/les-delestages-frappent-la-filiere-avicole-jusqua-50-des-volailles-perdues-des-perturbations-dapprovisionnement-redoutees/402151/",
+   "title": "Délestages : Jusqu’à 50 % des volailles perdues, des perturbations d’approvisionnement redoutées",
+   "scraped_at": "2026-08-04T18:44:12+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d909585ab5cf5542-1",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Rades",
+   "source": "https://www.webdo.tn/fr/actualite/national/les-delestages-frappent-la-filiere-avicole-jusqua-50-des-volailles-perdues-des-perturbations-dapprovisionnement-redoutees/402151/",
+   "title": "Délestages : Jusqu’à 50 % des volailles perdues, des perturbations d’approvisionnement redoutées",
+   "scraped_at": "2026-08-04T18:44:12+01:00",
+   "lat": 36.76789,
+   "lng": 10.27246,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "d909585ab5cf5542-2",
+   "type": "delestage",
+   "date": "2026-08-05",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/les-delestages-frappent-la-filiere-avicole-jusqua-50-des-volailles-perdues-des-perturbations-dapprovisionnement-redoutees/402151/",
+   "title": "Délestages : Jusqu’à 50 % des volailles perdues, des perturbations d’approvisionnement redoutées",
+   "scraped_at": "2026-08-04T18:44:12+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
    "geo_precision": "zone"
