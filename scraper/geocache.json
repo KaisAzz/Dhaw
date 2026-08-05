@@ -1138,5 +1138,25 @@
   "lat": 33.85563,
   "lng": 9.94775,
   "precision": "gouvernorat"
+ },
+ "Ouachtata|Béja": {
+  "lat": 36.74678,
+  "lng": 9.29422,
+  "precision": "gouvernorat"
+ },
+ "Bir El Hafey|Sidi Bouzid": {
+  "lat": 34.93209,
+  "lng": 9.196,
+  "precision": "zone"
+ },
+ "Hazoua|Tozeur": {
+  "lat": 33.74043,
+  "lng": 7.60385,
+  "precision": "zone"
+ },
+ "Meknassy|Sidi Bouzid": {
+  "lat": 34.60477,
+  "lng": 9.60225,
+  "precision": "zone"
  }
 }
