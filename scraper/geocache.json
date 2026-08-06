@@ -1158,5 +1158,15 @@
   "lat": 34.60477,
   "lng": 9.60225,
   "precision": "zone"
+ },
+ "Fernana|Jendouba": {
+  "lat": 36.65566,
+  "lng": 8.69579,
+  "precision": "zone"
+ },
+ "Tozeur|Tozeur": {
+  "lat": 33.9239,
+  "lng": 8.13706,
+  "precision": "zone"
  }
 }
