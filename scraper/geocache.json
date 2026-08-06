@@ -1168,5 +1168,15 @@
   "lat": 33.9239,
   "lng": 8.13706,
   "precision": "zone"
+ },
+ "Mornag|Ben Arous": {
+  "lat": 36.58721,
+  "lng": 10.24376,
+  "precision": "zone"
+ },
+ "Mezzouna|Sidi Bouzid": {
+  "lat": 34.46266,
+  "lng": 9.68984,
+  "precision": "zone"
  }
 }
