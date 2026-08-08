@@ -1178,5 +1178,10 @@
   "lat": 34.46266,
   "lng": 9.68984,
   "precision": "zone"
+ },
+ "Metlaoui|Gafsa": {
+  "lat": 34.31572,
+  "lng": 8.40183,
+  "precision": "zone"
  }
 }

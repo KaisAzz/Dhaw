@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T19:35:34+01:00",
+ "generated_at": "2026-08-08T20:26:26+01:00",
  "events": [
   {
    "id": "96341db7339359d7-0",
@@ -97,6 +97,34 @@
    "scraped_at": "2026-08-08T15:59:15+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "c32290b62b2bb21c-0",
+   "type": "annonce",
+   "date": "2026-08-08",
+   "window": "horaire non précisé",
+   "gov": "Gabès",
+   "zone": "Gabes",
+   "source": "https://www.lapresse.tn/2026/08/08/restaurants-et-coupures-delectricite-le-risque-des-intoxications-alimentaires-va-crescendo/",
+   "title": "Restaurants et coupures d’électricité : Le risque des intoxications alimentaires va crescendo !",
+   "scraped_at": "2026-08-08T20:26:21+01:00",
+   "lat": 33.88781,
+   "lng": 10.10044,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "c32290b62b2bb21c-1",
+   "type": "annonce",
+   "date": "2026-08-08",
+   "window": "horaire non précisé",
+   "gov": "Gafsa",
+   "zone": "Metlaoui",
+   "source": "https://www.lapresse.tn/2026/08/08/restaurants-et-coupures-delectricite-le-risque-des-intoxications-alimentaires-va-crescendo/",
+   "title": "Restaurants et coupures d’électricité : Le risque des intoxications alimentaires va crescendo !",
+   "scraped_at": "2026-08-08T20:26:21+01:00",
+   "lat": 34.31572,
+   "lng": 8.40183,
    "geo_precision": "zone"
   },
   {
