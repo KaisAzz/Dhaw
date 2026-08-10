@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-08-10T17:54:33+01:00",
+ "generated_at": "2026-08-10T18:49:14+01:00",
  "events": [
+  {
+   "id": "009fd3872d7b556c-0",
+   "type": "planifiee",
+   "date": "2026-08-11",
+   "window": "05:00 – 12:00",
+   "gov": "Tataouine",
+   "zone": "Tataouine",
+   "source": "https://www.lapresse.tn/2026/08/10/alerte-steg-une-coupure-programmee-delectricite-prevue-demain-dans-ces-zones/",
+   "title": "Alerte Steg : une coupure programmée d’électricité prévue demain dans ces zones",
+   "scraped_at": "2026-08-10T18:49:06+01:00",
+   "lat": 32.93152,
+   "lng": 10.4504,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "009fd3872d7b556c-1",
+   "type": "planifiee",
+   "date": "2026-08-11",
+   "window": "05:00 – 12:00",
+   "gov": "Tataouine",
+   "zone": "Ghomrassen",
+   "source": "https://www.lapresse.tn/2026/08/10/alerte-steg-une-coupure-programmee-delectricite-prevue-demain-dans-ces-zones/",
+   "title": "Alerte Steg : une coupure programmée d’électricité prévue demain dans ces zones",
+   "scraped_at": "2026-08-10T18:49:06+01:00",
+   "lat": 33.0599,
+   "lng": 10.33906,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "009fd3872d7b556c-2",
+   "type": "planifiee",
+   "date": "2026-08-11",
+   "window": "05:00 – 12:00",
+   "gov": "Ben Arous",
+   "zone": "El Mourouj",
+   "source": "https://www.lapresse.tn/2026/08/10/alerte-steg-une-coupure-programmee-delectricite-prevue-demain-dans-ces-zones/",
+   "title": "Alerte Steg : une coupure programmée d’électricité prévue demain dans ces zones",
+   "scraped_at": "2026-08-10T18:49:06+01:00",
+   "lat": 36.71983,
+   "lng": 10.21924,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "009fd3872d7b556c-3",
+   "type": "planifiee",
+   "date": "2026-08-11",
+   "window": "05:00 – 12:00",
+   "gov": "Ben Arous",
+   "zone": "Mourouj",
+   "source": "https://www.lapresse.tn/2026/08/10/alerte-steg-une-coupure-programmee-delectricite-prevue-demain-dans-ces-zones/",
+   "title": "Alerte Steg : une coupure programmée d’électricité prévue demain dans ces zones",
+   "scraped_at": "2026-08-10T18:49:06+01:00",
+   "lat": 36.71983,
+   "lng": 10.21924,
+   "geo_precision": "zone"
+  },
   {
    "id": "96341db7339359d7-0",
    "type": "annonce",
