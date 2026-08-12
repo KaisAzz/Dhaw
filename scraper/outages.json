@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-08-12T09:13:51+01:00",
+ "generated_at": "2026-08-12T10:39:56+01:00",
  "events": [
+  {
+   "id": "8e9ee3fa077061fa-0",
+   "type": "annonce",
+   "date": "2026-08-12",
+   "window": "horaire non précisé",
+   "gov": "Médenine",
+   "zone": "Houmt Souk",
+   "source": "https://www.webdo.tn/fr/actualite/national/la-procedure-a-ete-simple-et-rapide-temoigne-un-commercant-indemnise-par-la-steg/402456/",
+   "title": "« La procédure a été simple et rapide », témoigne un commerçant indemnisé par la STEG",
+   "scraped_at": "2026-08-12T10:39:48+01:00",
+   "lat": 33.87599,
+   "lng": 10.85715,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "8e9ee3fa077061fa-1",
+   "type": "annonce",
+   "date": "2026-08-12",
+   "window": "horaire non précisé",
+   "gov": "Médenine",
+   "zone": "Djerba",
+   "source": "https://www.webdo.tn/fr/actualite/national/la-procedure-a-ete-simple-et-rapide-temoigne-un-commercant-indemnise-par-la-steg/402456/",
+   "title": "« La procédure a été simple et rapide », témoigne un commerçant indemnisé par la STEG",
+   "scraped_at": "2026-08-12T10:39:48+01:00",
+   "lat": 33.7736,
+   "lng": 10.88619,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "8e9ee3fa077061fa-2",
+   "type": "annonce",
+   "date": "2026-08-12",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/la-procedure-a-ete-simple-et-rapide-temoigne-un-commercant-indemnise-par-la-steg/402456/",
+   "title": "« La procédure a été simple et rapide », témoigne un commerçant indemnisé par la STEG",
+   "scraped_at": "2026-08-12T10:39:48+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "009fd3872d7b556c-0",
    "type": "planifiee",
