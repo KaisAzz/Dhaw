@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T00:11:31+01:00",
+ "generated_at": "2026-08-12T01:07:03+01:00",
  "events": [
   {
    "id": "009fd3872d7b556c-0",
@@ -6803,34 +6803,6 @@
    "scraped_at": "2026-07-29T13:28:36+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "5604ca15e6987bfb-0",
-   "type": "annonce",
-   "date": "2026-07-28",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Skhira",
-   "source": "https://www.lapresse.tn/2026/07/28/tunisie-la-steg-fait-face-a-un-deficit-de-1-500-mw-alerte-le-depute-maher-ktari/",
-   "title": "Tunisie : la STEG fait face à un déficit de 1 500 MW, alerte le député Maher Ktari",
-   "scraped_at": "2026-07-28T12:34:56+01:00",
-   "lat": 34.34707,
-   "lng": 9.9753,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "5604ca15e6987bfb-1",
-   "type": "annonce",
-   "date": "2026-07-28",
-   "window": "horaire non précisé",
-   "gov": "Kairouan",
-   "zone": "Kairouan",
-   "source": "https://www.lapresse.tn/2026/07/28/tunisie-la-steg-fait-face-a-un-deficit-de-1-500-mw-alerte-le-depute-maher-ktari/",
-   "title": "Tunisie : la STEG fait face à un déficit de 1 500 MW, alerte le député Maher Ktari",
-   "scraped_at": "2026-07-28T12:34:56+01:00",
-   "lat": 35.67101,
-   "lng": 10.10062,
    "geo_precision": "zone"
   }
  ]
