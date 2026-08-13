@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T00:37:10+01:00",
+ "generated_at": "2026-08-13T02:41:03+01:00",
  "events": [
   {
    "id": "8e9ee3fa077061fa-0",
@@ -6789,62 +6789,6 @@
    "scraped_at": "2026-07-30T11:21:44+01:00",
    "lat": 36.87109,
    "lng": 10.34905,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "82b7813bf5f280e6-0",
-   "type": "annonce",
-   "date": "2026-07-29",
-   "window": "horaire non précisé",
-   "gov": "Tunis",
-   "zone": "Sidi Bou Said",
-   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-lutap-hausse-le-ton-contre-la-steg-apres-les-pertes-agricoles/401788/",
-   "title": "Coupures d’électricité : L’UTAP hausse le ton contre la STEG après les pertes agricoles",
-   "scraped_at": "2026-07-29T08:17:28+01:00",
-   "lat": 36.87109,
-   "lng": 10.34905,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "82b7813bf5f280e6-1",
-   "type": "annonce",
-   "date": "2026-07-29",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-lutap-hausse-le-ton-contre-la-steg-apres-les-pertes-agricoles/401788/",
-   "title": "Coupures d’électricité : L’UTAP hausse le ton contre la STEG après les pertes agricoles",
-   "scraped_at": "2026-07-29T08:17:28+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "472cf9c529fa0002-0",
-   "type": "annonce",
-   "date": "2026-07-29",
-   "window": "horaire non précisé",
-   "gov": "Tunis",
-   "zone": "Carthage",
-   "source": "https://www.webdo.tn/fr/actualite/national/coupure-delectricite-a-la-rabta-le-centre-de-maternite-nie-tout-impact-sur-les-nouveau-nes/401814/",
-   "title": "Coupure d’électricité à la Rabta : Le Centre de maternité nie tout impact sur les nouveau-nés",
-   "scraped_at": "2026-07-29T13:28:36+01:00",
-   "lat": 36.85481,
-   "lng": 10.33099,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "472cf9c529fa0002-1",
-   "type": "annonce",
-   "date": "2026-07-29",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/coupure-delectricite-a-la-rabta-le-centre-de-maternite-nie-tout-impact-sur-les-nouveau-nes/401814/",
-   "title": "Coupure d’électricité à la Rabta : Le Centre de maternité nie tout impact sur les nouveau-nés",
-   "scraped_at": "2026-07-29T13:28:36+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
    "geo_precision": "zone"
   }
  ]
