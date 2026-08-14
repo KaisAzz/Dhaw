@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T00:11:21+01:00",
+ "generated_at": "2026-08-14T01:06:42+01:00",
  "events": [
   {
    "id": "8e9ee3fa077061fa-0",
@@ -6719,76 +6719,6 @@
    "scraped_at": "2026-07-31T12:27:15+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9a9648396ae93d7f-0",
-   "type": "annonce",
-   "date": "2026-07-30",
-   "window": "horaire non précisé",
-   "gov": "Sousse",
-   "zone": "Sousse",
-   "source": "https://www.webdo.tn/fr/actualite/national/reseau-electrique-les-compteurs-intelligents-une-reponse-aux-coupures-de-courant/401910/",
-   "title": "Réseau électrique : Les compteurs intelligents, une réponse aux coupures de courant ?",
-   "scraped_at": "2026-07-30T11:21:44+01:00",
-   "lat": 35.82883,
-   "lng": 10.64053,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9a9648396ae93d7f-1",
-   "type": "annonce",
-   "date": "2026-07-30",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/reseau-electrique-les-compteurs-intelligents-une-reponse-aux-coupures-de-courant/401910/",
-   "title": "Réseau électrique : Les compteurs intelligents, une réponse aux coupures de courant ?",
-   "scraped_at": "2026-07-30T11:21:44+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9a9648396ae93d7f-2",
-   "type": "annonce",
-   "date": "2026-07-30",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Kerkennah",
-   "source": "https://www.webdo.tn/fr/actualite/national/reseau-electrique-les-compteurs-intelligents-une-reponse-aux-coupures-de-courant/401910/",
-   "title": "Réseau électrique : Les compteurs intelligents, une réponse aux coupures de courant ?",
-   "scraped_at": "2026-07-30T11:21:44+01:00",
-   "lat": 34.64345,
-   "lng": 11.03758,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9a9648396ae93d7f-3",
-   "type": "annonce",
-   "date": "2026-07-30",
-   "window": "horaire non précisé",
-   "gov": "Béja",
-   "zone": "Beja",
-   "source": "https://www.webdo.tn/fr/actualite/national/reseau-electrique-les-compteurs-intelligents-une-reponse-aux-coupures-de-courant/401910/",
-   "title": "Réseau électrique : Les compteurs intelligents, une réponse aux coupures de courant ?",
-   "scraped_at": "2026-07-30T11:21:44+01:00",
-   "lat": 36.72368,
-   "lng": 9.18538,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9a9648396ae93d7f-4",
-   "type": "annonce",
-   "date": "2026-07-30",
-   "window": "horaire non précisé",
-   "gov": "Tunis",
-   "zone": "Sidi Bou Said",
-   "source": "https://www.webdo.tn/fr/actualite/national/reseau-electrique-les-compteurs-intelligents-une-reponse-aux-coupures-de-courant/401910/",
-   "title": "Réseau électrique : Les compteurs intelligents, une réponse aux coupures de courant ?",
-   "scraped_at": "2026-07-30T11:21:44+01:00",
-   "lat": 36.87109,
-   "lng": 10.34905,
    "geo_precision": "zone"
   }
  ]
