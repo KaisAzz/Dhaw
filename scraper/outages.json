@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T00:44:09+01:00",
+ "generated_at": "2026-08-17T02:01:15+01:00",
  "events": [
   {
    "id": "01157d13c2c503f2-0",
@@ -6621,104 +6621,6 @@
    "scraped_at": "2026-08-03T18:24:25+01:00",
    "lat": 36.45129,
    "lng": 10.73559,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "11e06cc7653f758d-0",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Bizerte",
-   "zone": "Bizerte",
-   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
-   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
-   "scraped_at": "2026-08-02T10:36:10+01:00",
-   "lat": 37.27209,
-   "lng": 9.87086,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "11e06cc7653f758d-1",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Tunis",
-   "zone": "Carthage",
-   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
-   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
-   "scraped_at": "2026-08-02T10:36:10+01:00",
-   "lat": 36.85481,
-   "lng": 10.33099,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "11e06cc7653f758d-2",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Ben Arous",
-   "zone": "Rades",
-   "source": "https://www.lapresse.tn/2026/08/02/la-steg-et-deux-entreprises-publiques-remportent-le-prix-de-lentreprise-la-plus-engagee-pour-la-securite-routiere/",
-   "title": "La STEG et deux entreprises publiques remportent le prix de l’entreprise la plus engagée pour la sécurité routière",
-   "scraped_at": "2026-08-02T10:36:10+01:00",
-   "lat": 36.76789,
-   "lng": 10.27246,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "51c5214618b55a3f-0",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Skhira",
-   "source": "https://www.lapresse.tn/2026/08/02/production-delectricite-les-investissements-de-la-steg-chutent-de-87-selon-lote/",
-   "title": "Production d’électricité : les investissements de la STEG chutent de 87 %, selon l’OTE",
-   "scraped_at": "2026-08-02T18:58:44+01:00",
-   "lat": 34.34707,
-   "lng": 9.9753,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "51c5214618b55a3f-1",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.lapresse.tn/2026/08/02/production-delectricite-les-investissements-de-la-steg-chutent-de-87-selon-lote/",
-   "title": "Production d’électricité : les investissements de la STEG chutent de 87 %, selon l’OTE",
-   "scraped_at": "2026-08-02T18:58:44+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "51c5214618b55a3f-2",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Médenine",
-   "zone": "Medenine",
-   "source": "https://www.lapresse.tn/2026/08/02/production-delectricite-les-investissements-de-la-steg-chutent-de-87-selon-lote/",
-   "title": "Production d’électricité : les investissements de la STEG chutent de 87 %, selon l’OTE",
-   "scraped_at": "2026-08-02T18:58:44+01:00",
-   "lat": 33.3434,
-   "lng": 10.49107,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "51c5214618b55a3f-3",
-   "type": "annonce",
-   "date": "2026-08-02",
-   "window": "horaire non précisé",
-   "gov": "Bizerte",
-   "zone": "Bizerte",
-   "source": "https://www.lapresse.tn/2026/08/02/production-delectricite-les-investissements-de-la-steg-chutent-de-87-selon-lote/",
-   "title": "Production d’électricité : les investissements de la STEG chutent de 87 %, selon l’OTE",
-   "scraped_at": "2026-08-02T18:58:44+01:00",
-   "lat": 37.27209,
-   "lng": 9.87086,
    "geo_precision": "zone"
   }
  ]
