@@ -1183,5 +1183,15 @@
   "lat": 34.31572,
   "lng": 8.40183,
   "precision": "zone"
+ },
+ "Dehiba|Tataouine": {
+  "lat": 31.96291,
+  "lng": 10.46612,
+  "precision": "zone"
+ },
+ "Zarzis Ville|Médenine": {
+  "lat": 33.50368,
+  "lng": 11.10972,
+  "precision": "zone"
  }
 }
