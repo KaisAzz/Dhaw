@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T20:04:17+01:00",
+ "generated_at": "2026-08-19T20:50:08+01:00",
  "events": [
   {
    "id": "373b0c237503ea59-0",
@@ -2365,6 +2365,34 @@
    "scraped_at": "2026-08-19T17:31:33+01:00",
    "lat": 36.81133,
    "lng": 10.0947,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "a1363ab3448bf612-0",
+   "type": "annonce",
+   "date": "2026-08-19",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "La Marsa",
+   "source": "https://www.lapresse.tn/2026/08/19/arret-sur-image-pour-alleger-le-reseau-de-la-steg-cette-borne-de-recharge-electrique-a-larret/",
+   "title": "Arrêt sur image : “Pour alléger le réseau de la STEG” : cette borne de recharge électrique à l’arrêt",
+   "scraped_at": "2026-08-19T20:50:05+01:00",
+   "lat": 36.87909,
+   "lng": 10.32768,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "a1363ab3448bf612-1",
+   "type": "annonce",
+   "date": "2026-08-19",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Kelibia",
+   "source": "https://www.lapresse.tn/2026/08/19/arret-sur-image-pour-alleger-le-reseau-de-la-steg-cette-borne-de-recharge-electrique-a-larret/",
+   "title": "Arrêt sur image : “Pour alléger le réseau de la STEG” : cette borne de recharge électrique à l’arrêt",
+   "scraped_at": "2026-08-19T20:50:05+01:00",
+   "lat": 36.84566,
+   "lng": 11.09357,
    "geo_precision": "zone"
   },
   {
