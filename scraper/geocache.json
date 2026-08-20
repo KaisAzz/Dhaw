@@ -1193,5 +1193,10 @@
   "lat": 33.50368,
   "lng": 11.10972,
   "precision": "zone"
+ },
+ "Siliana|Siliana": {
+  "lat": 36.08467,
+  "lng": 9.37437,
+  "precision": "zone"
  }
 }
