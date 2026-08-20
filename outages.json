@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T07:42:48+01:00",
+ "generated_at": "2026-08-20T08:37:39+01:00",
  "events": [
   {
    "id": "23bb05a8f2144e8f-0",
@@ -25,6 +25,20 @@
    "source": "https://www.webdo.tn/fr/actualite/national/canicule-et-delestages-les-tunisiens-redoutent-un-week-end-difficile/402786/",
    "title": "Canicule et délestages : Les Tunisiens redoutent un week-end difficile",
    "scraped_at": "2026-08-20T07:42:45+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "117a4a99e23a61f8-0",
+   "type": "delestage",
+   "date": "2026-08-20",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-au-dela-de-la-canicule-le-spectre-dune-crise-structurelle-du-systeme-energetique-tunisien/402788/",
+   "title": "Coupures d’électricité : Au-delà de la canicule, le spectre d’une crise structurelle du système énergétique tunisien",
+   "scraped_at": "2026-08-20T08:37:34+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
    "geo_precision": "zone"
