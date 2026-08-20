@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-20T06:56:46+01:00",
+ "generated_at": "2026-08-20T07:42:48+01:00",
  "events": [
+  {
+   "id": "23bb05a8f2144e8f-0",
+   "type": "delestage",
+   "date": "2026-08-20",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "Carthage",
+   "source": "https://www.webdo.tn/fr/actualite/national/canicule-et-delestages-les-tunisiens-redoutent-un-week-end-difficile/402786/",
+   "title": "Canicule et délestages : Les Tunisiens redoutent un week-end difficile",
+   "scraped_at": "2026-08-20T07:42:45+01:00",
+   "lat": 36.85481,
+   "lng": 10.33099,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "23bb05a8f2144e8f-1",
+   "type": "delestage",
+   "date": "2026-08-20",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/canicule-et-delestages-les-tunisiens-redoutent-un-week-end-difficile/402786/",
+   "title": "Canicule et délestages : Les Tunisiens redoutent un week-end difficile",
+   "scraped_at": "2026-08-20T07:42:45+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "373b0c237503ea59-0",
    "type": "delestage",
