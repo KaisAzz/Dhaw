@@ -1198,5 +1198,10 @@
   "lat": 36.08467,
   "lng": 9.37437,
   "precision": "zone"
+ },
+ "Borj El Amri|Manouba": {
+  "lat": 36.71297,
+  "lng": 9.88303,
+  "precision": "zone"
  }
 }
