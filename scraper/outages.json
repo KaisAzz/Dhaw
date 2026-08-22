@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T00:47:37+01:00",
+ "generated_at": "2026-08-22T02:00:08+01:00",
  "events": [
   {
    "id": "4419da50758d78ec-0",
@@ -3569,34 +3569,6 @@
    "scraped_at": "2026-08-08T20:26:21+01:00",
    "lat": 34.31572,
    "lng": 8.40183,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "c073d21b6bf19cb4-0",
-   "type": "annonce",
-   "date": "2026-08-07",
-   "window": "12:30 – 17:00",
-   "gov": "Monastir",
-   "zone": "Moknine",
-   "source": "https://www.lapresse.tn/2026/08/06/coupures-delectricite-voici-toutes-les-regions-concernees-aujourdhui-3/",
-   "title": "Coupures d’électricité : voici toutes les régions concernées aujourd’hui",
-   "scraped_at": "2026-08-06T15:52:37+01:00",
-   "lat": 35.62826,
-   "lng": 10.90013,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "c073d21b6bf19cb4-1",
-   "type": "annonce",
-   "date": "2026-08-07",
-   "window": "12:30 – 17:00",
-   "gov": "Kairouan",
-   "zone": "Kairouan",
-   "source": "https://www.lapresse.tn/2026/08/06/coupures-delectricite-voici-toutes-les-regions-concernees-aujourdhui-3/",
-   "title": "Coupures d’électricité : voici toutes les régions concernées aujourd’hui",
-   "scraped_at": "2026-08-06T15:52:37+01:00",
-   "lat": 35.67101,
-   "lng": 10.10062,
    "geo_precision": "zone"
   }
  ]
