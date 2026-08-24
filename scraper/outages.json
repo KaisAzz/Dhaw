@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-24T10:42:19+01:00",
+ "generated_at": "2026-08-24T11:33:45+01:00",
  "events": [
+  {
+   "id": "8724f5e10a57050f-0",
+   "type": "annonce",
+   "date": "2026-08-24",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.lapresse.tn/2026/08/24/tourisme-les-coupures-delectricite-desormais-mentionnees-dans-les-conseils-aux-voyageurs-europeens-en-tunisie/",
+   "title": "Tourisme : les coupures d’électricité désormais mentionnées dans les conseils aux voyageurs européens en Tunisie",
+   "scraped_at": "2026-08-24T11:33:42+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "8724f5e10a57050f-1",
+   "type": "annonce",
+   "date": "2026-08-24",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Ghar El Melh",
+   "source": "https://www.lapresse.tn/2026/08/24/tourisme-les-coupures-delectricite-desormais-mentionnees-dans-les-conseils-aux-voyageurs-europeens-en-tunisie/",
+   "title": "Tourisme : les coupures d’électricité désormais mentionnées dans les conseils aux voyageurs européens en Tunisie",
+   "scraped_at": "2026-08-24T11:33:42+01:00",
+   "lat": 37.14543,
+   "lng": 10.09387,
+   "geo_precision": "zone"
+  },
   {
    "id": "4419da50758d78ec-0",
    "type": "annonce",
