@@ -1203,5 +1203,15 @@
   "lat": 36.71297,
   "lng": 9.88303,
   "precision": "zone"
+ },
+ "Bou Achir|Zaghouan": {
+  "lat": 36.3338,
+  "lng": 10.32299,
+  "precision": "zone"
+ },
+ "El Golaa|Kébili": {
+  "lat": 33.48707,
+  "lng": 8.98847,
+  "precision": "zone"
  }
 }
