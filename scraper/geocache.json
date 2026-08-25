@@ -1213,5 +1213,20 @@
   "lat": 33.48707,
   "lng": 8.98847,
   "precision": "zone"
+ },
+ "Sbikha|Kairouan": {
+  "lat": 35.95195,
+  "lng": 10.02967,
+  "precision": "zone"
+ },
+ "Oued Mliz|Jendouba": {
+  "lat": 36.46653,
+  "lng": 8.56641,
+  "precision": "zone"
+ },
+ "Kalaat Senan|El Kef": {
+  "lat": 35.76728,
+  "lng": 8.34381,
+  "precision": "zone"
  }
 }
