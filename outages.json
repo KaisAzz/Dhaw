@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T16:38:22+01:00",
+ "generated_at": "2026-08-25T17:32:31+01:00",
  "events": [
   {
    "id": "2219d63138239e0e-0",
@@ -3385,6 +3385,20 @@
    "source": "https://www.lapresse.tn/2026/08/25/grand-tunis-des-coupures-delectricite-possibles-jusqua-17h-dans-ces-zones/",
    "title": "Grand Tunis : des coupures d’électricité possibles jusqu’à 17h dans ces zones",
    "scraped_at": "2026-08-25T10:31:27+01:00",
+   "lat": 34.42244,
+   "lng": 8.78439,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "97db7eb6cbb6b958-0",
+   "type": "delestage",
+   "date": "2026-08-25",
+   "window": "13:00 – 17:00",
+   "gov": "Gafsa",
+   "zone": "Gafsa",
+   "source": "https://www.lapresse.tn/2026/08/25/canicule-des-mercredi-la-steg-appelle-a-limiter-les-climatiseurs-pour-eviter-les-coupures/",
+   "title": "Canicule dès mercredi : la STEG appelle à limiter les climatiseurs pour éviter les coupures",
+   "scraped_at": "2026-08-25T17:32:28+01:00",
    "lat": 34.42244,
    "lng": 8.78439,
    "geo_precision": "zone"
