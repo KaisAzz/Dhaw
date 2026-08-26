@@ -1228,5 +1228,10 @@
   "lat": 35.76728,
   "lng": 8.34381,
   "precision": "zone"
+ },
+ "Kalaat El Andalous|Ariana": {
+  "lat": 37.06245,
+  "lng": 10.11815,
+  "precision": "zone"
  }
 }
