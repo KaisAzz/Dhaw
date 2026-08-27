@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T11:05:53+01:00",
+ "generated_at": "2026-08-27T21:39:22+01:00",
  "events": [
   {
    "id": "e8bb9b84857565c2-0",
@@ -839,6 +839,34 @@
    "scraped_at": "2026-08-27T11:05:49+01:00",
    "lat": 36.81133,
    "lng": 10.0947,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "f94c46da87131390-0",
+   "type": "delestage",
+   "date": "2026-08-27",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Bizerte",
+   "source": "https://www.lapresse.tn/2026/08/27/la-federation-de-lelectricite-et-du-gaz-les-delestages-seront-helas-inevitables-pour-le-reste-de-cet-ete-2026/",
+   "title": "La Fédération de l’électricité et du gaz : les délestages seront hélas inévitables pour le reste de cet été 2026",
+   "scraped_at": "2026-08-27T21:39:21+01:00",
+   "lat": 37.27209,
+   "lng": 9.87086,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "f94c46da87131390-1",
+   "type": "delestage",
+   "date": "2026-08-27",
+   "window": "horaire non précisé",
+   "gov": "Ariana",
+   "zone": "Ariana",
+   "source": "https://www.lapresse.tn/2026/08/27/la-federation-de-lelectricite-et-du-gaz-les-delestages-seront-helas-inevitables-pour-le-reste-de-cet-ete-2026/",
+   "title": "La Fédération de l’électricité et du gaz : les délestages seront hélas inévitables pour le reste de cet été 2026",
+   "scraped_at": "2026-08-27T21:39:21+01:00",
+   "lat": 36.85874,
+   "lng": 10.18823,
    "geo_precision": "zone"
   },
   {
