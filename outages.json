@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T09:03:57+01:00",
+ "generated_at": "2026-08-29T14:55:41+01:00",
  "events": [
   {
    "id": "dd747f64e588a2a8-0",
@@ -1679,6 +1679,34 @@
    "scraped_at": "2026-08-29T02:25:33+01:00",
    "lat": 35.82883,
    "lng": 10.64053,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "239b0c4dabd49044-0",
+   "type": "annonce",
+   "date": "2026-08-29",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Nabeul",
+   "source": "https://www.lapresse.tn/2026/08/29/nabeul-des-milliers-de-volailles-perissent-sous-leffet-de-la-chaleur-et-des-coupures-delectricite/",
+   "title": "Nabeul : des milliers de volailles périssent sous l’effet de la chaleur et des coupures d’électricité",
+   "scraped_at": "2026-08-29T14:55:37+01:00",
+   "lat": 36.45129,
+   "lng": 10.73559,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "239b0c4dabd49044-1",
+   "type": "annonce",
+   "date": "2026-08-29",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "El Haouaria",
+   "source": "https://www.lapresse.tn/2026/08/29/nabeul-des-milliers-de-volailles-perissent-sous-leffet-de-la-chaleur-et-des-coupures-delectricite/",
+   "title": "Nabeul : des milliers de volailles périssent sous l’effet de la chaleur et des coupures d’électricité",
+   "scraped_at": "2026-08-29T14:55:37+01:00",
+   "lat": 37.04981,
+   "lng": 11.01165,
    "geo_precision": "zone"
   },
   {
