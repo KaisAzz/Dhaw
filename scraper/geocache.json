@@ -1233,5 +1233,10 @@
   "lat": 37.06245,
   "lng": 10.11815,
   "precision": "zone"
+ },
+ "Thibar|Béja": {
+  "lat": 36.52182,
+  "lng": 9.10498,
+  "precision": "zone"
  }
 }
