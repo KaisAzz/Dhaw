@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T23:28:14+01:00",
+ "generated_at": "2026-08-30T01:35:12+01:00",
  "events": [
   {
    "id": "dd747f64e588a2a8-0",
@@ -15469,48 +15469,6 @@
    "scraped_at": "2026-08-19T20:50:05+01:00",
    "lat": 36.84566,
    "lng": 11.09357,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "01157d13c2c503f2-0",
-   "type": "annonce",
-   "date": "2026-08-15",
-   "window": "07:00 – 12:00",
-   "gov": "Monastir",
-   "zone": "Monastir",
-   "source": "https://www.lapresse.tn/2026/08/14/la-steg-annonce-une-coupure-delectricite-dans-ces-zones-demain/",
-   "title": "La STEG annonce une coupure d’électricité dans ces zones demain",
-   "scraped_at": "2026-08-14T20:27:53+01:00",
-   "lat": 35.77076,
-   "lng": 10.82805,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "01157d13c2c503f2-1",
-   "type": "annonce",
-   "date": "2026-08-15",
-   "window": "07:00 – 12:00",
-   "gov": "Monastir",
-   "zone": "Moknine",
-   "source": "https://www.lapresse.tn/2026/08/14/la-steg-annonce-une-coupure-delectricite-dans-ces-zones-demain/",
-   "title": "La STEG annonce une coupure d’électricité dans ces zones demain",
-   "scraped_at": "2026-08-14T20:27:53+01:00",
-   "lat": 35.62826,
-   "lng": 10.90013,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "01157d13c2c503f2-2",
-   "type": "annonce",
-   "date": "2026-08-15",
-   "window": "07:00 – 12:00",
-   "gov": "Mahdia",
-   "zone": "Mahdia",
-   "source": "https://www.lapresse.tn/2026/08/14/la-steg-annonce-une-coupure-delectricite-dans-ces-zones-demain/",
-   "title": "La STEG annonce une coupure d’électricité dans ces zones demain",
-   "scraped_at": "2026-08-14T20:27:53+01:00",
-   "lat": 35.50364,
-   "lng": 11.06824,
    "geo_precision": "zone"
   }
  ]
