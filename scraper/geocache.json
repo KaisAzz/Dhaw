@@ -1243,5 +1243,10 @@
   "lat": 36.55201,
   "lng": 9.44186,
   "precision": "zone"
+ },
+ "Chebika|Kairouan": {
+  "lat": 35.65887,
+  "lng": 9.92765,
+  "precision": "zone"
  }
 }
