@@ -1238,5 +1238,10 @@
   "lat": 36.52182,
   "lng": 9.10498,
   "precision": "zone"
+ },
+ "Testour|Béja": {
+  "lat": 36.55201,
+  "lng": 9.44186,
+  "precision": "zone"
  }
 }
