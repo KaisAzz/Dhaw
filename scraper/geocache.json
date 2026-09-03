@@ -1248,5 +1248,10 @@
   "lat": 35.65887,
   "lng": 9.92765,
   "precision": "zone"
+ },
+ "Bargou|Siliana": {
+  "lat": 36.09144,
+  "lng": 9.56673,
+  "precision": "zone"
  }
 }
