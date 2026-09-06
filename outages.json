@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-09-06T18:13:24+01:00",
+ "generated_at": "2026-09-06T20:22:55+01:00",
  "events": [
+  {
+   "id": "85a0dc903ce5af69-0",
+   "type": "annonce",
+   "date": "2026-09-06",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Nabeul",
+   "source": "https://www.lapresse.tn/2026/09/06/nabeul-un-depute-appelle-a-indemniser-les-agriculteurs-et-entreprises-touches-par-les-coupures-delectricite/",
+   "title": "Nabeul : un député appelle à indemniser les agriculteurs et entreprises touchés par les coupures d’électricité",
+   "scraped_at": "2026-09-06T20:22:51+01:00",
+   "lat": 36.45129,
+   "lng": 10.73559,
+   "geo_precision": "zone"
+  },
   {
    "id": "736d8296b8e96f06-0",
    "type": "annonce",
