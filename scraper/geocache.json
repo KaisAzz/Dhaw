@@ -1253,5 +1253,10 @@
   "lat": 36.09144,
   "lng": 9.56673,
   "precision": "zone"
+ },
+ "Zeramdine|Monastir": {
+  "lat": 35.57651,
+  "lng": 10.73124,
+  "precision": "zone"
  }
 }

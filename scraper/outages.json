@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-09-18T11:29:24+01:00",
+ "generated_at": "2026-09-18T15:36:55+01:00",
  "events": [
+  {
+   "id": "e35fda9f054b832a-0",
+   "type": "annonce",
+   "date": "2026-09-18",
+   "window": "horaire non précisé",
+   "gov": "Sousse",
+   "zone": "Sousse",
+   "source": "https://www.webdo.tn/fr/actualite/national/maher-kettari-la-steg-croule-sous-35-milliards-de-dinars-de-deficit/404251/",
+   "title": "Maher Kettari : La STEG croule sous 3,5 milliards de dinars de déficit",
+   "scraped_at": "2026-09-18T15:36:33+01:00",
+   "lat": 35.82883,
+   "lng": 10.64053,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e35fda9f054b832a-1",
+   "type": "annonce",
+   "date": "2026-09-18",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "Medina",
+   "source": "https://www.webdo.tn/fr/actualite/national/maher-kettari-la-steg-croule-sous-35-milliards-de-dinars-de-deficit/404251/",
+   "title": "Maher Kettari : La STEG croule sous 3,5 milliards de dinars de déficit",
+   "scraped_at": "2026-09-18T15:36:33+01:00",
+   "lat": 36.79869,
+   "lng": 10.17174,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e35fda9f054b832a-2",
+   "type": "annonce",
+   "date": "2026-09-18",
+   "window": "horaire non précisé",
+   "gov": "Monastir",
+   "zone": "Zeramdine",
+   "source": "https://www.webdo.tn/fr/actualite/national/maher-kettari-la-steg-croule-sous-35-milliards-de-dinars-de-deficit/404251/",
+   "title": "Maher Kettari : La STEG croule sous 3,5 milliards de dinars de déficit",
+   "scraped_at": "2026-09-18T15:36:33+01:00",
+   "lat": 35.57651,
+   "lng": 10.73124,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e35fda9f054b832a-3",
+   "type": "annonce",
+   "date": "2026-09-18",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/maher-kettari-la-steg-croule-sous-35-milliards-de-dinars-de-deficit/404251/",
+   "title": "Maher Kettari : La STEG croule sous 3,5 milliards de dinars de déficit",
+   "scraped_at": "2026-09-18T15:36:33+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "e551d2373bb0c9f0-0",
    "type": "delestage",
