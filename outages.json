@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-09-21T06:15:04+01:00",
+ "generated_at": "2026-09-21T11:56:52+01:00",
  "events": [
+  {
+   "id": "0fa74431df525648-0",
+   "type": "annonce",
+   "date": "2026-09-21",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Menzel Temime",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-19-de-lelectricite-produite-ne-seraient-pas-comptabilises-dans-les-ventes/404343/",
+   "title": "STEG : 19% de l’électricité produite ne seraient pas comptabilisés dans les ventes",
+   "scraped_at": "2026-09-21T11:56:48+01:00",
+   "lat": 36.78071,
+   "lng": 10.99391,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0fa74431df525648-1",
+   "type": "annonce",
+   "date": "2026-09-21",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Kelibia",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-19-de-lelectricite-produite-ne-seraient-pas-comptabilises-dans-les-ventes/404343/",
+   "title": "STEG : 19% de l’électricité produite ne seraient pas comptabilisés dans les ventes",
+   "scraped_at": "2026-09-21T11:56:48+01:00",
+   "lat": 36.84566,
+   "lng": 11.09357,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "0fa74431df525648-2",
+   "type": "annonce",
+   "date": "2026-09-21",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-19-de-lelectricite-produite-ne-seraient-pas-comptabilises-dans-les-ventes/404343/",
+   "title": "STEG : 19% de l’électricité produite ne seraient pas comptabilisés dans les ventes",
+   "scraped_at": "2026-09-21T11:56:48+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "e35fda9f054b832a-0",
    "type": "annonce",
