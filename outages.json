@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T00:48:11+01:00",
+ "generated_at": "2026-09-22T04:06:31+01:00",
  "events": [
   {
    "id": "0fa74431df525648-0",
@@ -195,34 +195,6 @@
    "scraped_at": "2026-09-08T09:15:14+01:00",
    "lat": 36.87909,
    "lng": 10.32768,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "6efc871723b7eef2-0",
-   "type": "annonce",
-   "date": "2026-09-07",
-   "window": "09:00 – 10:00",
-   "gov": "Bizerte",
-   "zone": "Mateur",
-   "source": "https://www.webdo.tn/fr/actualite/national/steg-mobilisation-nationale-dune-heure-apres-la-mort-dun-agent-a-mateur/403644/",
-   "title": "STEG : Mobilisation nationale d’une heure après la mort d’un agent à Mateur",
-   "scraped_at": "2026-09-07T13:53:30+01:00",
-   "lat": 37.0386,
-   "lng": 9.6677,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "6efc871723b7eef2-1",
-   "type": "annonce",
-   "date": "2026-09-07",
-   "window": "09:00 – 10:00",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/steg-mobilisation-nationale-dune-heure-apres-la-mort-dun-agent-a-mateur/403644/",
-   "title": "STEG : Mobilisation nationale d’une heure après la mort d’un agent à Mateur",
-   "scraped_at": "2026-09-07T13:53:30+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
    "geo_precision": "zone"
   }
  ]
