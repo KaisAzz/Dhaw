@@ -1258,5 +1258,10 @@
   "lat": 35.57651,
   "lng": 10.73124,
   "precision": "zone"
+ },
+ "Kondar|Sousse": {
+  "lat": 35.90344,
+  "lng": 10.24393,
+  "precision": "zone"
  }
 }
