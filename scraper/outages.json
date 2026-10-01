@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-10-01T07:19:06+01:00",
+ "generated_at": "2026-10-01T14:42:15+01:00",
  "events": [
+  {
+   "id": "36a73fb3a463fab6-0",
+   "type": "annonce",
+   "date": "2026-10-02",
+   "window": "horaire non précisé",
+   "gov": "Bizerte",
+   "zone": "Mateur",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-la-menace-de-greve-monte-sur-fond-de-tensions-sociales-et-daccidents-du-travail/404811/",
+   "title": "STEG : La menace de grève monte sur fond de tensions sociales et d’accidents du travail",
+   "scraped_at": "2026-10-01T14:42:07+01:00",
+   "lat": 37.0386,
+   "lng": 9.6677,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "36a73fb3a463fab6-1",
+   "type": "annonce",
+   "date": "2026-10-02",
+   "window": "horaire non précisé",
+   "gov": "Tunis",
+   "zone": "El Manar",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-la-menace-de-greve-monte-sur-fond-de-tensions-sociales-et-daccidents-du-travail/404811/",
+   "title": "STEG : La menace de grève monte sur fond de tensions sociales et d’accidents du travail",
+   "scraped_at": "2026-10-01T14:42:07+01:00",
+   "lat": 36.84398,
+   "lng": 10.15394,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "36a73fb3a463fab6-2",
+   "type": "annonce",
+   "date": "2026-10-02",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/steg-la-menace-de-greve-monte-sur-fond-de-tensions-sociales-et-daccidents-du-travail/404811/",
+   "title": "STEG : La menace de grève monte sur fond de tensions sociales et d’accidents du travail",
+   "scraped_at": "2026-10-01T14:42:07+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "2fc1d93c121fdde1-0",
    "type": "annonce",
