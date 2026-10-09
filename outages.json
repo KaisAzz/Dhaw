@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-09T16:28:05+01:00",
+ "generated_at": "2026-10-09T21:15:06+01:00",
  "events": [
+  {
+   "id": "bdb7696a58a85efd-0",
+   "type": "annonce",
+   "date": "2026-10-09",
+   "window": "horaire non précisé",
+   "gov": "Manouba",
+   "zone": "Borj El Amri",
+   "source": "https://www.lapresse.tn/2026/10/09/electricite-la-steg-prevoit-des-capacites-supplementaires-de-250-mw-grace-a-lamelioration-des-centrales/",
+   "title": "Électricité : la STEG prévoit des capacités supplémentaires de 250 MW grâce à l’amélioration des centrales",
+   "scraped_at": "2026-10-09T21:15:04+01:00",
+   "lat": 36.71297,
+   "lng": 9.88303,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "bdb7696a58a85efd-1",
+   "type": "annonce",
+   "date": "2026-10-09",
+   "window": "horaire non précisé",
+   "gov": "Tataouine",
+   "zone": "Tataouine",
+   "source": "https://www.lapresse.tn/2026/10/09/electricite-la-steg-prevoit-des-capacites-supplementaires-de-250-mw-grace-a-lamelioration-des-centrales/",
+   "title": "Électricité : la STEG prévoit des capacités supplémentaires de 250 MW grâce à l’amélioration des centrales",
+   "scraped_at": "2026-10-09T21:15:04+01:00",
+   "lat": 32.93152,
+   "lng": 10.4504,
+   "geo_precision": "zone"
+  },
   {
    "id": "b74d115aad0f15db-0",
    "type": "annonce",
