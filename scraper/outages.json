@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T22:05:56+01:00",
+ "generated_at": "2026-10-11T01:19:04+01:00",
  "events": [
   {
    "id": "bdb7696a58a85efd-0",
@@ -237,34 +237,6 @@
    "scraped_at": "2026-09-29T15:12:43+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "3444ef2b2690e8ed-0",
-   "type": "annonce",
-   "date": "2026-09-26",
-   "window": "horaire non précisé",
-   "gov": "Sousse",
-   "zone": "Sousse",
-   "source": "https://www.lapresse.tn/2026/09/26/la-steg-annonce-une-coupure-delectricite-dimanche-dans-ces-zones/",
-   "title": "La STEG annonce une coupure d’électricité dimanche dans ces zones",
-   "scraped_at": "2026-09-26T12:38:56+01:00",
-   "lat": 35.82883,
-   "lng": 10.64053,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "3444ef2b2690e8ed-1",
-   "type": "annonce",
-   "date": "2026-09-26",
-   "window": "horaire non précisé",
-   "gov": "Tunis",
-   "zone": "Carthage",
-   "source": "https://www.lapresse.tn/2026/09/26/la-steg-annonce-une-coupure-delectricite-dimanche-dans-ces-zones/",
-   "title": "La STEG annonce une coupure d’électricité dimanche dans ces zones",
-   "scraped_at": "2026-09-26T12:38:56+01:00",
-   "lat": 36.85481,
-   "lng": 10.33099,
    "geo_precision": "zone"
   }
  ]
