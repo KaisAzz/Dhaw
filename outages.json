@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-10-19T19:39:12+01:00",
+ "generated_at": "2026-10-19T23:47:34+01:00",
  "events": [
+  {
+   "id": "4f5e17eaaa4b61c7-0",
+   "type": "annonce",
+   "date": "2026-10-19",
+   "window": "horaire non précisé",
+   "gov": "Ben Arous",
+   "zone": "Ben Arous",
+   "source": "https://www.webdo.tn/fr/actualite/national/tunisie-ces-equipements-mobiles-que-la-steg-veut-deployer/405772/",
+   "title": "Tunisie : Ces équipements mobiles que la STEG veut déployer",
+   "scraped_at": "2026-10-19T23:47:29+01:00",
+   "lat": 36.75169,
+   "lng": 10.2245,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "4f5e17eaaa4b61c7-1",
+   "type": "annonce",
+   "date": "2026-10-19",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/tunisie-ces-equipements-mobiles-que-la-steg-veut-deployer/405772/",
+   "title": "Tunisie : Ces équipements mobiles que la STEG veut déployer",
+   "scraped_at": "2026-10-19T23:47:29+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "3d6f2a38626cc81a-0",
    "type": "planifiee",
