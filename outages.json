@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-10-23T15:01:59+01:00",
+ "generated_at": "2026-10-23T19:35:25+01:00",
  "events": [
+  {
+   "id": "e5abe3321aa17363-0",
+   "type": "planifiee",
+   "date": "2026-10-23",
+   "window": "horaire non précisé",
+   "gov": "Monastir",
+   "zone": "Moknine",
+   "source": "https://www.lapresse.tn/2026/10/23/alerte-steg-des-coupures-delectricite-programmees-samedi-et-dimanche-dans-ces-regions/",
+   "title": "Alerte STEG : des coupures d’électricité programmées samedi et dimanche dans ces régions",
+   "scraped_at": "2026-10-23T19:35:23+01:00",
+   "lat": 35.62826,
+   "lng": 10.90013,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e5abe3321aa17363-1",
+   "type": "planifiee",
+   "date": "2026-10-23",
+   "window": "horaire non précisé",
+   "gov": "Monastir",
+   "zone": "Monastir",
+   "source": "https://www.lapresse.tn/2026/10/23/alerte-steg-des-coupures-delectricite-programmees-samedi-et-dimanche-dans-ces-regions/",
+   "title": "Alerte STEG : des coupures d’électricité programmées samedi et dimanche dans ces régions",
+   "scraped_at": "2026-10-23T19:35:23+01:00",
+   "lat": 35.77076,
+   "lng": 10.82805,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e5abe3321aa17363-2",
+   "type": "planifiee",
+   "date": "2026-10-23",
+   "window": "horaire non précisé",
+   "gov": "Tozeur",
+   "zone": "Tozeur",
+   "source": "https://www.lapresse.tn/2026/10/23/alerte-steg-des-coupures-delectricite-programmees-samedi-et-dimanche-dans-ces-regions/",
+   "title": "Alerte STEG : des coupures d’électricité programmées samedi et dimanche dans ces régions",
+   "scraped_at": "2026-10-23T19:35:23+01:00",
+   "lat": 33.9239,
+   "lng": 8.13706,
+   "geo_precision": "zone"
+  },
+  {
+   "id": "e5abe3321aa17363-3",
+   "type": "planifiee",
+   "date": "2026-10-23",
+   "window": "horaire non précisé",
+   "gov": "Nabeul",
+   "zone": "Hammamet",
+   "source": "https://www.lapresse.tn/2026/10/23/alerte-steg-des-coupures-delectricite-programmees-samedi-et-dimanche-dans-ces-regions/",
+   "title": "Alerte STEG : des coupures d’électricité programmées samedi et dimanche dans ces régions",
+   "scraped_at": "2026-10-23T19:35:23+01:00",
+   "lat": 36.40127,
+   "lng": 10.55728,
+   "geo_precision": "zone"
+  },
   {
    "id": "9e7bfff195b770fd-0",
    "type": "annonce",
