@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-28T09:55:28+01:00",
+ "generated_at": "2026-10-28T16:42:05+01:00",
  "events": [
+  {
+   "id": "4729d604d129704e-0",
+   "type": "annonce",
+   "date": "2026-10-28",
+   "window": "horaire non précisé",
+   "gov": "Sfax",
+   "zone": "Sfax",
+   "source": "https://www.webdo.tn/fr/actualite/national/coupures-delectricite-en-tunisie-les-entreprises-accusent-127-milliard-de-dinars-de-pertes-en-valeur-ajoutee/406237/",
+   "title": "Coupures d’électricité en Tunisie : Les entreprises accusent 1,27 milliard de dinars de pertes en valeur ajoutée",
+   "scraped_at": "2026-10-28T16:41:59+01:00",
+   "lat": 34.73944,
+   "lng": 10.7604,
+   "geo_precision": "zone"
+  },
   {
    "id": "e5abe3321aa17363-0",
    "type": "planifiee",
