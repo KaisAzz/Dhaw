@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-11-02T18:46:13+01:00",
+ "generated_at": "2026-11-03T01:26:56+01:00",
  "events": [
+  {
+   "id": "3a78beded7745c3b-0",
+   "type": "annonce",
+   "date": "2026-11-03",
+   "window": "horaire non précisé",
+   "gov": "Kairouan",
+   "zone": "Kairouan",
+   "source": "https://www.lapresse.tn/2026/11/02/perturbations-frequentes-de-lapprovisionnement-en-eau-et-en-electricite-steg-et-sonede-deux-faces-dune-meme-piece/",
+   "title": "Perturbations fréquentes de l’approvisionnement en eau et en électricité : Steg et Sonede, deux faces d’une même pièce !",
+   "scraped_at": "2026-11-03T01:26:53+01:00",
+   "lat": 35.67101,
+   "lng": 10.10062,
+   "geo_precision": "zone"
+  },
   {
    "id": "2f87ee143c04c477-0",
    "type": "annonce",
@@ -165,34 +179,6 @@
    "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
    "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
    "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "4f5e17eaaa4b61c7-0",
-   "type": "annonce",
-   "date": "2026-10-19",
-   "window": "horaire non précisé",
-   "gov": "Ben Arous",
-   "zone": "Ben Arous",
-   "source": "https://www.webdo.tn/fr/actualite/national/tunisie-ces-equipements-mobiles-que-la-steg-veut-deployer/405772/",
-   "title": "Tunisie : Ces équipements mobiles que la STEG veut déployer",
-   "scraped_at": "2026-10-19T23:47:29+01:00",
-   "lat": 36.75169,
-   "lng": 10.2245,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "4f5e17eaaa4b61c7-1",
-   "type": "annonce",
-   "date": "2026-10-19",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/tunisie-ces-equipements-mobiles-que-la-steg-veut-deployer/405772/",
-   "title": "Tunisie : Ces équipements mobiles que la STEG veut déployer",
-   "scraped_at": "2026-10-19T23:47:29+01:00",
    "lat": 34.73944,
    "lng": 10.7604,
    "geo_precision": "zone"
