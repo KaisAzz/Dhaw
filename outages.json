@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T22:10:47+01:00",
+ "generated_at": "2026-11-04T02:33:09+01:00",
  "events": [
   {
    "id": "3a78beded7745c3b-0",
@@ -111,76 +111,6 @@
    "scraped_at": "2026-10-23T19:35:23+01:00",
    "lat": 36.40127,
    "lng": 10.55728,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9e7bfff195b770fd-0",
-   "type": "annonce",
-   "date": "2026-10-20",
-   "window": "horaire non précisé",
-   "gov": "Manouba",
-   "zone": "Borj El Amri",
-   "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
-   "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
-   "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 36.71297,
-   "lng": 9.88303,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9e7bfff195b770fd-1",
-   "type": "annonce",
-   "date": "2026-10-20",
-   "window": "horaire non précisé",
-   "gov": "Bizerte",
-   "zone": "Mateur",
-   "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
-   "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
-   "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 37.0386,
-   "lng": 9.6677,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9e7bfff195b770fd-2",
-   "type": "annonce",
-   "date": "2026-10-20",
-   "window": "horaire non précisé",
-   "gov": "Tataouine",
-   "zone": "Tataouine",
-   "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
-   "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
-   "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 32.93152,
-   "lng": 10.4504,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9e7bfff195b770fd-3",
-   "type": "annonce",
-   "date": "2026-10-20",
-   "window": "horaire non précisé",
-   "gov": "Zaghouan",
-   "zone": "Zaghouan",
-   "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
-   "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
-   "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 36.39948,
-   "lng": 10.14463,
-   "geo_precision": "zone"
-  },
-  {
-   "id": "9e7bfff195b770fd-4",
-   "type": "annonce",
-   "date": "2026-10-20",
-   "window": "horaire non précisé",
-   "gov": "Sfax",
-   "zone": "Sfax",
-   "source": "https://www.webdo.tn/fr/actualite/national/la-course-contre-la-montre-de-la-steg-pour-eviter-un-nouvel-ete-sous-tension/405790/",
-   "title": "La course contre la montre de la STEG pour éviter un nouvel été sous tension",
-   "scraped_at": "2026-10-20T13:50:26+01:00",
-   "lat": 34.73944,
-   "lng": 10.7604,
    "geo_precision": "zone"
   }
  ]
