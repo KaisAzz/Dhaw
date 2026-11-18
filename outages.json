@@ -1,19 +1,4 @@
 {
- "generated_at": "2026-11-17T20:38:31+01:00",
- "events": [
-  {
-   "id": "3a78beded7745c3b-0",
-   "type": "annonce",
-   "date": "2026-11-03",
-   "window": "horaire non précisé",
-   "gov": "Kairouan",
-   "zone": "Kairouan",
-   "source": "https://www.lapresse.tn/2026/11/02/perturbations-frequentes-de-lapprovisionnement-en-eau-et-en-electricite-steg-et-sonede-deux-faces-dune-meme-piece/",
-   "title": "Perturbations fréquentes de l’approvisionnement en eau et en électricité : Steg et Sonede, deux faces d’une même pièce !",
-   "scraped_at": "2026-11-03T01:26:53+01:00",
-   "lat": 35.67101,
-   "lng": 10.10062,
-   "geo_precision": "zone"
-  }
- ]
+ "generated_at": "2026-11-18T03:03:34+01:00",
+ "events": []
 }
